@@ -1,0 +1,34 @@
+---
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Schedule
+Find the updated schedule here.
+
+Note that this schedule may change
+Talks
+
+Talks should be about 15-20 minutes long, after which will be time for discussion.
+
+## Talks
+
+Jake Nelson - *ecosystem to global scale*
+Markus Reichstein - Introduction to transpiration science at BGC
+Elke Eichelmann - The unique challenges of partitioning ET in flooded ecosystems: From leaf level to ecosystem scale
+Madi Amer - Resilience to draught and ET partitioning in semi-arid ecosystems
+Luke Smallman - *ecosystem to global scale*
+Russ Scott - Using flux tower water and carbon flux data to determine evapotranspiration partitioning.
+Diego Miralles - Potential of satellite sun-induced fluorescence to enhance understanding of transpiration: from ecosystem to global scales
+Rafael Poyatos - Towards stand transpiration estimates from global sap flow measurements
+Victor Flo - Global variation of tree transpiration responses to vapor pressure deficit and soil water content
+William Schlesinger - Transpiration and the global water cycle
+Paul Stoy - *grasslands and both dryland and irrigated agroecosystems*
+Mirco Migliavacca - Constraining Evapotranspiration partitioning with multiple data streams in the MANIP project
+

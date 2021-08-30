@@ -1,0 +1,18 @@
+navbar:
+  title: SAPFLUXNET WORKSHOP
+  left:
+  - text: Home
+    href: index.html
+  - text: Schedule
+    href: schedule.html
+  - text: Suggested readings
+    href: suggested.html
+  - text: Details
+    menu:
+    - text: Travel information
+    - href: travel.html
+    - text: Accomodation
+    - href: accomodation.html
+output:
+  html_document:
+    theme: flatly
