@@ -33,8 +33,10 @@
 <link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
 <script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -318,7 +320,11 @@ div.tocify {
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
-  <a href="index.html">Home</a>
+  <a href="index.html">
+    <span class="fa fa-home"></span>
+     
+    Home
+  </a>
 </li>
 <li>
   <a href="schedule.html">Schedule</a>
@@ -333,13 +339,11 @@ div.tocify {
     <span class="caret"></span>
   </a>
   <ul class="dropdown-menu" role="menu">
-    <li class="dropdown-header">Travel information</li>
     <li>
-      <a href="travel.html"></a>
+      <a href="travel.html">Travel information</a>
     </li>
-    <li class="dropdown-header">Accomodation</li>
     <li>
-      <a href="accomodation.html"></a>
+      <a href="accomodation.html">Accomodation</a>
     </li>
   </ul>
 </li>
@@ -359,9 +363,48 @@ div.tocify {
 </div>
 
 
-<div id="sapfluxnet-at-regional-to-global-scales." class="section level2">
-<h2>SAPFLUXNET at regional to global scales.</h2>
-<p><img src="images/logo.png" width="50%" style="display: block; margin: auto;" /></p>
+<style type="text/css">
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  margin-bottom: 40px;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 80px;
+  padding: 20px 0;
+  background-color: #2c3e50;
+  text-align: center;
+}
+</style>
+<script type="text/javascript">
+$(function() {
+  $('.main-container').after($('.footer'));
+})
+</script>
+<div id="sapfluxnet-from-regional-to-global-scale." class="section level2">
+<h2>SAPFLUXNET, from regional to global scale.</h2>
+<p><img src="images/logo.png" width="40%" style="display: block; margin: auto;" /></p>
+<div id="november-2021" class="section level3">
+<h3>11-15 November 2021</h3>
+<p>at Can Balasc (<a href="http://www.creaf.cat/">CREAF</a>)</p>
+</div>
+<div id="objectives" class="section level3">
+<h3>Objectives</h3>
+<p>The main objective of the workshop is to improve our understanding of tree water use resilience in order to improve drought responses in TBMs, addressing the following questions:</p>
+<p>How can we use sap flow time series to quantify transpiration regulation in response to drought at multiple timescales, including the response to repeated seasonal droughts (i.e., tree water use resilience)?</p>
+<p>To what extent are key models and remote sensing products capable of reproducing the hydrometeorological controls on transpiration and the physiological resilience patterns observed globally, including the impact and recovery from drought events?</p>
+<p>Can whole plant hydraulic conductance, estimated from sap flow and water potential time series, bridge the gap between empirical transpiration responses to drought and modelling results?</p>
+<div class="footer text-muted bg-info">
+<p>
+SAPFLUXNET Core Team<br> <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a>
+</p>
+</div>
+</div>
 </div>
 
 
@@ -413,7 +456,7 @@ $(document).ready(function ()  {
 
     // establish options
     var options = {
-      selectors: "h1,h2,h3",
+      selectors: "h1,h2",
       theme: "bootstrap3",
       context: '.toc-content',
       hashGenerator: function (text) {

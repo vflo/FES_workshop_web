@@ -2,6 +2,7 @@ navbar:
   title: SAPFLUXNET WORKSHOP
   left:
   - text: Home
+    icon: fa-home
     href: index.html
   - text: Schedule
     href: schedule.html
@@ -10,9 +11,13 @@ navbar:
   - text: Details
     menu:
     - text: Travel information
-    - href: travel.html
+      href: travel.html
     - text: Accomodation
-    - href: accomodation.html
+      href: accomodation.html
 output:
   html_document:
     theme: flatly
+    highlight: textmate
+output_dir: "_site"
+include: ["import.R"]
+exclude: ["docs.txt", "*.csv"]
