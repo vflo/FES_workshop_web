@@ -53,10 +53,9 @@ Find the updated schedule <a href="./schedule/schedule-template-master/index.htm
 
 Talks should be about 10-15 minutes long, after which will be time for discussion.
 
-
-<p></p>
-<p></p>
-<p></p>
+<br>
+<br>
+<br>
 
 ## TALKS
 
