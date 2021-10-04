@@ -8,6 +8,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+
 ```{css, echo=FALSE}
 html {
   position: relative;
@@ -25,19 +26,35 @@ body {
   background-color: #2c3e50;
   text-align: center;
 }
+body{margin-top:20px;}
+.idance .classes-details ul.timetable {
+    margin: 0 0 22px;
+    padding: 0;
+}
+.cd-schedule__group > ul {
+  position: relative;
+  padding: 0 var(--component-padding);
+  display: flex;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
 ```
 
 ```{js, echo=FALSE}
 $(function() {
   $('.main-container').after($('.footer'));
 })
+
 ```
+
 ## SCHEDULE
-Find the updated schedule here.
+Find the updated schedule [here](./schedule_page.html).
 
 Note that this schedule may change
 Talks
 
+  
 Talks should be about 15-20 minutes long, after which will be time for discussion.
 
 ## TALKS

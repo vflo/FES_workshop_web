@@ -34,24 +34,31 @@ $(function() {
   $('.main-container').after($('.footer'));
 })
 ```
-## SAPFLUXNET, from regional to global scale.
-
+<center>
+## SAPFLUXNET WORKSHOP 
+11-15 November 2021
+<br>
+<br>
+<br>
+<span style="font-size:2vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
+</center>
+<br>
 
 ```{r logo, echo=FALSE,  out.width = '40%',fig.pos="hbt!", fig.align="center"}
 knitr::include_graphics(dpi = 300, path = "images/logo.png")
 ```
 
-### 11-15 November 2021
-at Can Balasc ([CREAF](http://www.creaf.cat/))
+<br>
 
-### Objectives
-The main objective of the workshop is to improve our understanding of tree water use resilience in order to improve drought responses in TBMs, addressing the following questions:
+<h2>WORKSHOP QUESTIONS</h2>
 
-How can we use sap flow time series to quantify transpiration regulation in response to drought at multiple timescales, including the response to repeated seasonal droughts (i.e., tree water use resilience)?
+<b>(Q1)</b> How can we use sap flow and other data streams to quantify transpiration regulation in response to drought at multiple timescales, including the response to repeated seasonal droughts (i.e., tree water use resilience)?  
 
-To what extent are key models and remote sensing products capable of reproducing the hydrometeorological controls on transpiration and the physiological resilience patterns observed globally, including the impact and recovery from drought events?
+<b>(Q2)</b> To what extent are key models and remote sensing products capable of reproducing the hydrometeorological controls on transpiration and the physiological resilience patterns observed globally, including the impact and recovery from drought events? 
 
-Can whole plant hydraulic conductance, estimated from sap flow and water potential time series, bridge the gap between empirical transpiration responses to drought and modelling results?
+<b>(Q3)</b> Can whole plant hydraulic conductance, estimated from sap flow and water potential time series, bridge the gap between empirical transpiration responses to drought and modelling results? 
+
+<p>&emsp;<b>Q3a</b> How are in situ estimates of plant hydraulic conductance related to large-scale estimates obtained from model inversion?</p> 
 
 
 

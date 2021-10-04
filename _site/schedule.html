@@ -37,6 +37,7 @@
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+<link rel="icon" type="image/png" href="images/favicon.ico"/>
 
 <style type="text/css">
   code{white-space: pre-wrap;}
@@ -380,15 +381,29 @@ body {
   background-color: #2c3e50;
   text-align: center;
 }
+body{margin-top:20px;}
+.idance .classes-details ul.timetable {
+    margin: 0 0 22px;
+    padding: 0;
+}
+.cd-schedule__group > ul {
+  position: relative;
+  padding: 0 var(--component-padding);
+  display: flex;
+  overflow-x: scroll;
+  -webkit-overflow-scrolling: touch;
+}
+
 </style>
 <script type="text/javascript">
 $(function() {
   $('.main-container').after($('.footer'));
 })
+
 </script>
 <div id="schedule" class="section level2">
 <h2>SCHEDULE</h2>
-<p>Find the updated schedule here.</p>
+<p>Find the updated schedule <a href="./schedule_page.html">here</a>.</p>
 <p>Note that this schedule may change Talks</p>
 <p>Talks should be about 15-20 minutes long, after which will be time for discussion.</p>
 </div>

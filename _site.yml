@@ -16,6 +16,9 @@ navbar:
       href: accomodation.html
 output:
   html_document:
+    includes:
+      in_header: 
+      - header.html
     theme: flatly
     highlight: textmate
 output_dir: "_site"

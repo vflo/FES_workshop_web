@@ -37,6 +37,18 @@ $(function() {
 
 ## Getting to Can Balasc from Barcelona
 
+```{r out.width='100%', echo=FALSE}
+library(leaflet)
+leaflet() %>% addTiles() %>%
+  setView(2.078, 41.4300, zoom = 12) %>%
+  addPopups(
+    2.078, 41.4300,
+    'Here is <b>Can Balasc</b>'
+  )
+```
+
+Can Balasc ([CREAF](http://www.creaf.cat/))
+
 ## Getting to CREAF from Barcelona
 
 ::: {.footer .text-muted .bg-info}
