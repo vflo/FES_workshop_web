@@ -33,9 +33,13 @@ $(function() {
 })
 ```
 ## TRAVEL INFORMATION
-### Getting to Barcelona by train from el Prat Airport
 
-### Getting to Can Balasc from Barcelona
+## Getting to Barcelona by train from el Prat Airport
+<br>
+<br>
+<br>
+
+## Getting to Can Balasc from Barcelona
 
 ```{r out.width='100%', echo=FALSE}
 library(leaflet)
@@ -48,8 +52,14 @@ leaflet() %>% addTiles() %>%
 ```
 
 Can Balasc ([CREAF](http://www.creaf.cat/))
+<br>
+<br>
+<br>
 
-### Getting to CREAF from Barcelona
+## Getting to CREAF from Barcelona
+<br>
+<br>
+
 
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
