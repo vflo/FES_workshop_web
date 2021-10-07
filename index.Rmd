@@ -40,7 +40,7 @@ $(function() {
 <br>
 <br>
 <br>
-<span style="font-size:2vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
+<span style="font-size:2.5vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
 </center>
 <br>
 
