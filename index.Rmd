@@ -36,7 +36,7 @@ $(function() {
 ```
 <center>
 ## SAPFLUXNET WORKSHOP 
-<h3>10-12 November 2021</h3>
+<h3>10-12 November 2021 at CAN BALASC (BARCELONA)</h3>
 <br>
 <br>
 <br>
