@@ -103,13 +103,14 @@ text-align: left}
 <br>
 <br>
 
-<h2>ORGANISING COMMITTEE</h2>
+<h3>Organising committee:</h3>
 <p>Rafael Poyatos (RP), CREAF</p>
 <p>Víctor Flo (VF), CREAF</p>
 <p>Víctor Granda (VG), CREAF</p>
 <p>Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB</p>
 <p>Miquel de Cáceres (MC), CREAF</p>
 <p>Brenda Fatecha (BF), CREAF</p>
+
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
  <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>

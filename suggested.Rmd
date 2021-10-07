@@ -44,6 +44,7 @@ $(function() {
 body {
 text-align: left}
 </style>
+
 ## SUGGESTED READING
 
 ### A community sourced list of publications to read
@@ -89,7 +90,6 @@ Papers are tagged depending on the specific workshop question(s) they address. I
 <b>Liu Y, Holtzman NM, Konings AG. 2021a.</b> Global ecosystem-scale plant hydraulic traits retrieved using model–data fusion. <em>Hydrology and Earth System Sciences</em> <b>25:</b> 2399–2417. <span style="color: green;">[Q3]</span> 
 
 <b>Liu Y, Konings AG, Kennedy D, Gentine P. 2021b.</b> Global Coordination in Plant Physiological and Rooting Strategies in Response to Water Stress. <em>Global Biogeochemical Cycles</em> <b>35:</b> e2020GB006758. <span style="color: green;">[Q3]</span> 
-
 
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
