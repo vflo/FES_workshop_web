@@ -82,7 +82,10 @@ Predicting forest water use and drought responses under global warming is one of
 
 <br>
 <br>
-
+<style>
+body {
+text-align: left}
+</style>
 <h2>LIST OF ATTENDEES</h2>
 
 <h3>Workshop Participants:</h3>
