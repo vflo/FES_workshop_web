@@ -1,5 +1,5 @@
 ---
-title: Travel
+title: Travel information
 output: 
   html_document:
     toc: true

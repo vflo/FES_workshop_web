@@ -44,12 +44,12 @@ $(function() {
 
 
 <center>
-## SAPFLUXNET WORKSHOP 
-<h3>10-12 November 2021 at CAN BALASC (BARCELONA)</h3>
+<span style="font-size:3vw"> SAPFLUXNET WORKSHOP</span> 
+<p><span style="font-size:2.5vw"> 10-12 November 2021 at CAN BALASC (BARCELONA)</span> </p>
 <br>
 <br>
 <br>
-<span style="font-size:2.5vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
+<span style="font-size:3vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
 </center>
 <br>
 
