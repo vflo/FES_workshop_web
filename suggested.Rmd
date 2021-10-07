@@ -42,7 +42,7 @@ $(function() {
 ```
 <style>
 body {
-text-align: justify}
+text-align: left}
 </style>
 ## SUGGESTED READING
 
