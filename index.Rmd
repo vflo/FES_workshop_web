@@ -82,54 +82,51 @@ Predicting forest water use and drought responses under global warming is one of
 
 <br>
 <br>
-<style>
-body {
-text-align: left}
-</style>
+
 <h2>LIST OF ATTENDEES</h2>
 
 <h3>Workshop Participants:</h3>
 
-Kim Novick (KN), Indiana University,USA 
+<p style="text-align:left;>Kim Novick (KN), Indiana University,USA</p> 
 
-Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote) 
+<p style="text-align:left;>Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote)</p> 
 
-Lucy Rowland (LR), University of Exeter, UK (Remote)
+<p style="text-align:left;>Lucy Rowland (LR), University of Exeter, UK (Remote)</p>
 
-Alexandra Konings (AK), Stanford University, USA 
+<p style="text-align:left;>Alexandra Konings (AK), Stanford University, USA</p> 
 
-Diego Miralles (DM), Ghent University, Belgium 
+<p style="text-align:left;>Diego Miralles (DM), Ghent University, Belgium</p> 
 
-Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany
+<p style="text-align:left;>Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
 
-Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany
+<p style="text-align:left;>Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
 
-Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)  
+<p style="text-align:left;>Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)</p>  
 
-Paulo Bittencourt (PB), University of Exeter, UK 
+<p style="text-align:left;>Paulo Bittencourt (PB), University of Exeter, UK</p> 
 
-Bill Anderegg (BA), University of Utah, USA 
+<p style="text-align:left;>Bill Anderegg (BA), University of Utah, USA</p> 
 
-Josep Peñuelas (JP), CREAF, Spain 
+<p style="text-align:left;>Josep Peñuelas (JP), CREAF, Spain</p> 
 
-Maurizio Mencuccini (MM), CREAF, Spain 
+<p style="text-align:left;>Maurizio Mencuccini (MM), CREAF, Spain</p>
 
 <br>
 <br>
 
 <h2>ORGANISING COMMITTEE</h2>
 
-Rafael Poyatos (RP), CREAF
+<p style="text-align:left;>Rafael Poyatos (RP), CREAF</p>
 
-Víctor Flo (VF), CREAF
+<p style="text-align:left;>Víctor Flo (VF), CREAF</p>
 
-Víctor Granda (VG), CREAF
+<p style="text-align:left;>Víctor Granda (VG), CREAF</p>
 
-Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB
+<p style="text-align:left;>Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB</p>
 
-Miquel de Cáceres (MC), CREAF
+<p style="text-align:left;>Miquel de Cáceres (MC), CREAF</p>
 
-Brenda Fatecha (BF), CREAF
+<p style="text-align:left;>Brenda Fatecha (BF), CREAF</p>
 
 
 
