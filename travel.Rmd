@@ -44,9 +44,7 @@ body {
 text-align: justify}
 </style>
 
-## TRAVEL INFORMATION
-
-## Getting to Barcelona by train from el Prat Airport
+## Getting to Barcelona from the Airport
 Barcelona airport is well connected to Barcelona city centre. Most airport-city transfers take about forty minutes, including waiting time. Note, however, that it has two terminals, T1 and T2, and that the departure points - for the same means of transport - are not the same from one terminal to the other.
 
 <h3>TRANSFER BY AEROBUS</h3>
@@ -120,6 +118,7 @@ That the night fare starts at 20:00 and ends at 8:00.
 <br>
 <br>
 
+
 ## Getting to CAN BALASC from Barcelona
 
 The workshop will take place at CAN BALASC, a country house located in the middle of [Collserola](https://www.parcnaturalcollserola.cat/en/), which is mountain area north of Barcelona.
@@ -135,9 +134,7 @@ leaflet() %>% addTiles() %>%
   )
 ```
 
-
-## Getting to Can Balasc by FGC train
-To get to Can Balasc, you have to use the [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at les Planes station. We will be waiting for you there from 8:15 to 8:45, and we will take you by car to the country house where the workshop will take place.
+To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at LES PLANES station. We will be waiting for you at LES PLANES station from 8:15 to 8:45, and we will take you by car to the country house where the workshop will take place.
 
 
 <br>
