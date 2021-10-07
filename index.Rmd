@@ -13,6 +13,7 @@ output:
   }
 </style>
 
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
@@ -44,12 +45,12 @@ $(function() {
 
 
 <center>
-<span style="font-size:2vw"> SAPFLUXNET WORKSHOP</span> 
-<p><span style="font-size:1.5vw"> 10-12 November 2021 at CAN BALASC (BARCELONA)</span> </p>
+<h2>SAPFLUXNET WORKSHOP</h2> 
+<h3>10-12 November 2021</h3>
+<h3>CAN BALASC - BARCELONA</h3>
 <br>
 <br>
-<br>
-<span style="font-size:2.5vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
+<p style= "font-size:calc(12px + 1.5vw)"> **Meeting the Potential of SAPFLUXNET to Ground-Truth Tree Water Use and Drought Responses in Models and Remote Sensing Products at Regional to Global Scales** </p>
 </center>
 <br>
 
@@ -64,12 +65,12 @@ text-align: justify}
 
 <br>
 
-<h2>WORKSHOP OVERVIEW</h2>
+<h2>OVERVIEW</h2>
 Predicting forest water use and drought responses under global warming is one of the biggest challenges of Terrestrial Biosphere Models (TBMs). These models now represent tree water and carbon fluxes using trait-based optimality approaches, whereby trees maximise profit (carbon gain) given a cost imposed by the risk of losing the capacity to transport water (hydraulic risk). Optimality-based, hydraulically explicit TBMs provide a unifying theory potentially linking physiological responses, ecosystem function and demography and leverage a rapidly growing availability of plant hydraulic traits. Likewise, remote sensing products of plant water fluxes and pools show promise in describing transpiration, plant water content and physiological strategies across large spatial scales. Multi-site assessment of models and data products have typically used ecosystem fluxes, which may obscure plant physiological responses. The availability of global sap flow data in the SAPFLUXNET database now makes it possible to benchmark models and data products against tree-measured water fluxes worldwide. Combining SAPFLUXNET data with co-located measurements of leaf water potentials can reveal how plant hydraulic conductance responds to repeated droughts across species. Drought legacy effects pervade forest water content and flux dynamics worldwide, and a temporally-resolved tree perspective is necessary to disentangle the ecohydrological and physiological mechanisms driving these legacy effects as well the influences of drought intensity, duration, timing and sequence. 
 <br>
 <br>
 
-<h2>WORKSHOP QUESTIONS</h2>
+<h2>QUESTIONS</h2>
 
 <b>(Q1)</b> How can we use sap flow and other data streams to quantify transpiration regulation in response to drought at multiple timescales, including the response to repeated seasonal droughts (i.e., tree water use resilience)?  
 
