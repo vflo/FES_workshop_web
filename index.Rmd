@@ -110,8 +110,6 @@ text-align: left}
 <p>Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB</p>
 <p>Miquel de Cáceres (MC), CREAF</p>
 <p>Brenda Fatecha (BF), CREAF</p>
-
-
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
  <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>

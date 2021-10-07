@@ -44,10 +44,10 @@ body {
 text-align: left}
 </style>
 
-## Getting to Barcelona from the Airport
+<h2>GETTING TO BARCELONA FROM THE AIRPORT</h2>
 Barcelona airport is well connected to Barcelona city centre. Most airport-city transfers take about forty minutes, including waiting time. Note, however, that it has two terminals, T1 and T2, and that the departure points - for the same means of transport - are not the same from one terminal to the other.
 
-<h3>TRANSFER BY AEROBUS</h3>
+<h3>Transfer by Aerobus</h3>
 
 The Aerobús is a fast (35 minutes) and economical (5,90€) shuttle bus that connects Barcelona-El Prat Airport (Terminals 1 and 2) with the centre of Barcelona (Plaza de Cataluña). The route includes 3 stops at strategic points in Barcelona: Pl. Espanya, Gran Via-Urgell, Pl. Universitat.The Aerobus operates all year round with a departure every 5 minutes.
 
@@ -65,7 +65,7 @@ You can buy your Aerobus ticket at the ticket machines located in Terminal T1 an
 <br>
 <br>
 
-<h3>TRANSFER BY TRAIN FROM AIRPORT TERMINAL 2</h3>
+<h3>Transfer by train from Airport Terminal 2</h3>
 
 The train only departs from Terminal T2. If you arrive via Terminal T1 you will have to take the free shuttle bus that connects the two terminals: it is an easily recognisable green bus. Renfe is the name of the Spanish national railway company. Therefore, you should look for this indication in terminal T2. It only stops at two stations in the centre of Barcelona: Estació Sants and Passeig de Gràcia. The line that connects the city centre is the R2 North line.
 
@@ -74,7 +74,7 @@ At the Renfe station you will find cash machines and ticket offices to buy your 
 <br>
 <br>
 
-<h3 style="text-align:left;>TRANSFER BY METRO (LINE 9)</h3>
+<h3>Transfer by metro (Line 9)</h3>
 Both Barcelona Airport terminals T1 and T2 are connected to the Barcelona metro network, which is very convenient for passengers:
 
 You need to know:
@@ -87,7 +87,7 @@ You can also buy the Hola BCN public transport card online, which will be used f
 <br>
 <br>
 
-<h3>BARCELONA AIRPORT / CITY CENTRE BY NIGHT BUS</h3>
+<h3>Barcelona Airport - City centre by Night Bus</h3>
 If you arrive in Barcelona at night, the night bus is the only way to get to the city centre by public transport. It is also a cheaper solution than taxis or private transfers.
 
 You should know:
@@ -103,7 +103,7 @@ The N16 bus stop is located outside terminals T1, T2a, T2b and T2c.
 <br>
 
 
-<h3>TAXI TRANSFER FROM THE AIRPORT TO BARCELONA CITY CENTRE</h3>
+<h3>Taxi transfer from the airport to Barcelona city centre</h3>
 
 Taking a taxi to the centre of Barcelona from the airport is the easiest and quickest solution. It is not excessively expensive as long as you are at least two people. The taxi rank is very well signposted at the exit of both terminals T1 and T2. Taxis are numerous and the queue is very well organised as almost always in Barcelona.
 
@@ -119,7 +119,7 @@ That the night fare starts at 20:00 and ends at 8:00.
 <br>
 
 
-<h2>Getting to CAN BALASC from Barcelona</h2>
+<h2>GETTING TO CAN BALASC FROM BARCELONA</h2>
 
 The workshop will take place at CAN BALASC, a country house located in the middle of [Collserola](https://www.parcnaturalcollserola.cat/en/), which is mountain area north of Barcelona.
 
@@ -141,7 +141,7 @@ To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya
 <br>
 <br>
 
-<h2>Getting to CREAF from Barcelona</h2>
+<h2>GETTING TO CREAF FROM BARCELONA</h2>
 
 ([CREAF](http://www.creaf.cat/))
 <br>
