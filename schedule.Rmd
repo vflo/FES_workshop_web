@@ -59,14 +59,16 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 
 ## TALKS
 
+<p>Rafael Poyatos - </p>
 <p>Jake Nelson - *ecosystem to global scale*</p>
-<p>Markus Reichstein - Introduction to transpiration science at BGC</p>
-<p>Elke Eichelmann - The unique challenges of partitioning ET in flooded ecosystems: From leaf level to ecosystem scale</p>
-<p>Madi Amer - Resilience to draught and ET partitioning in semi-arid ecosystems
-<p>Luke Smallman - *ecosystem to global scale*</p>
-<p>Russ Scott - Using flux tower water and carbon flux data to determine evapotranspiration partitioning.</p>
-<p>Diego Miralles - Potential of satellite sun-induced fluorescence to enhance understanding of transpiration: from ecosystem to global scales</p>
-<p>Rafael Poyatos - Towards stand transpiration estimates from global sap flow measurements</p>
+<p>Bill Anderegg - *ecosystem to global scale*</p>
+<p>Alex Konings - </p>
+<p>Paulo Bittencourt - </p>
+<p>Mirco Migliavacca - </p>
+<p> Rosie Fisher - </p>
+<p>Lucy Rowland - </p>
+<p>Diego Miralles - </p>
+<p>Kim Novick - </p>
 
 
 

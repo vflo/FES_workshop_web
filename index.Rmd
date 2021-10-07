@@ -40,7 +40,7 @@ $(function() {
 <br>
 <br>
 <br>
-<span style="font-size:2vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
+<span style="font-size:2.5vw"> ***Meeting the potential of SAPFLUXNET to ground-truth tree water use and drought responses in models and remote sensing products at regional to global scales*** </span>
 </center>
 <br>
 
@@ -48,6 +48,11 @@ $(function() {
 knitr::include_graphics(dpi = 300, path = "images/logo.png")
 ```
 
+<br>
+
+<h2>WORKSHOP OVERVIEW</h2>
+Predicting forest water use and drought responses under global warming is one of the biggest challenges of Terrestrial Biosphere Models (TBMs). These models now represent tree water and carbon fluxes using trait-based optimality approaches, whereby trees maximise profit (carbon gain) given a cost imposed by the risk of losing the capacity to transport water (hydraulic risk). Optimality-based, hydraulically explicit TBMs provide a unifying theory potentially linking physiological responses, ecosystem function and demography and leverage a rapidly growing availability of plant hydraulic traits. Likewise, remote sensing products of plant water fluxes and pools show promise in describing transpiration, plant water content and physiological strategies across large spatial scales. Multi-site assessment of models and data products have typically used ecosystem fluxes, which may obscure plant physiological responses. The availability of global sap flow data in the SAPFLUXNET database now makes it possible to benchmark models and data products against tree-measured water fluxes worldwide. Combining SAPFLUXNET data with co-located measurements of leaf water potentials can reveal how plant hydraulic conductance responds to repeated droughts across species. Drought legacy effects pervade forest water content and flux dynamics worldwide, and a temporally-resolved tree perspective is necessary to disentangle the ecohydrological and physiological mechanisms driving these legacy effects as well the influences of drought intensity, duration, timing and sequence. 
+<br>
 <br>
 
 <h2>WORKSHOP QUESTIONS</h2>
@@ -60,12 +65,54 @@ knitr::include_graphics(dpi = 300, path = "images/logo.png")
 
 <p>&emsp;<b>Q3a</b> How are in situ estimates of plant hydraulic conductance related to large-scale estimates obtained from model inversion?</p> 
 
-
+<br>
 <br>
 
-<h2>List of Attendees</h2>
+<h2>LIST OF ATTENDEES</h2>
 
 <h3>Workshop Participants:</h3>
+
+Kim Novick (KN), Indiana University,USA 
+
+Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote) 
+
+Lucy Rowland (LR), University of Exeter, UK (Remote)
+
+Alexandra Konings (AK), Stanford University, USA 
+
+Diego Miralles (DM), Ghent University, Belgium 
+
+Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany
+
+Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany
+
+Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)  
+
+Paulo Bittencourt (PB), University of Exeter, UK 
+
+Bill Anderegg (BA), University of Utah, USA 
+
+Josep Peñuelas (JP), CREAF, Spain 
+
+Maurizio Mencuccini (MM), CREAF, Spain 
+
+<br>
+<br>
+
+<h2>ORGANISING COMMITTEE</h2>
+
+Rafael Poyatos (RP), CREAF
+
+Víctor Flo (VF), CREAF
+
+Víctor Granda (VG), CREAF
+
+Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB
+
+Miquel de Cáceres (MC), CREAF
+
+Brenda Fatecha (BF), CREAF
+
 
 
 
