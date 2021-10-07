@@ -34,7 +34,10 @@ $(function() {
   $('.main-container').after($('.footer'));
 })
 ```
-
+<style>
+body {
+text-align: justify}
+</style>
 ## SUGGESTED READING
 
 ### A community sourced list of publications to read

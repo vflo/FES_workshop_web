@@ -36,7 +36,7 @@ $(function() {
 ```
 <center>
 ## SAPFLUXNET WORKSHOP 
-10-12 November 2021
+<h3>10-12 November 2021</h3>
 <br>
 <br>
 <br>
@@ -47,6 +47,11 @@ $(function() {
 ```{r logo, echo=FALSE,  out.width = '40%',fig.pos="hbt!", fig.align="center"}
 knitr::include_graphics(dpi = 300, path = "images/logo.png")
 ```
+
+<style>
+body {
+text-align: justify}
+</style>
 
 <br>
 

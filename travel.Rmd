@@ -32,6 +32,11 @@ $(function() {
   $('.main-container').after($('.footer'));
 })
 ```
+<style>
+body {
+text-align: justify}
+</style>
+
 ## TRAVEL INFORMATION
 
 ## Getting to Barcelona by train from el Prat Airport
