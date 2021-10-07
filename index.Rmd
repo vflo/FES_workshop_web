@@ -61,6 +61,15 @@ knitr::include_graphics(dpi = 300, path = "images/logo.png")
 <p>&emsp;<b>Q3a</b> How are in situ estimates of plant hydraulic conductance related to large-scale estimates obtained from model inversion?</p> 
 
 
+<br>
+
+<h2>List of Attendees</h2>
+
+<h3>Workshop Participants:</h3>
+
+
+
+
 
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
