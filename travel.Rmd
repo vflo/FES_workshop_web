@@ -121,8 +121,6 @@ That the night fare starts at 20:00 and ends at 8:00.
 
 <h2>GETTING TO CAN BALASC FROM BARCELONA</h2>
 
-The workshop will take place at CAN BALASC, a country house located in the middle of [Collserola](https://www.parcnaturalcollserola.cat/en/), which is mountain area north of Barcelona.
-
 
 ```{r out.width='100%', echo=FALSE}
 library(leaflet)
@@ -143,7 +141,44 @@ To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya
 
 <h2>GETTING TO CREAF FROM BARCELONA</h2>
 
-([CREAF](http://www.creaf.cat/))
+Arriving by public transportation
+It is possible to arrive to CREAF on public transportation by using:
+
+- Rodalies RENFE
+station stop **Cerdanyola Universitat**
+ 
+- Ferrocarrils de la Generalitat
+station stop **Universitat Autònoma**
+
+
+Here we explain these options in more detail:
+
+<h3>Using RENFE Rodalies</h3>
+The train station «Cerdanyola Universitat» is served by Rodalies trains on the C7 line {Barcelona — Martorell}.
+At the train station «Cerdanyola del Vallès» it is also possible to transfer from a train on the C4 line {Barcelona — Sabadell|Terrasa|Manresa} to a train on the C7 line.
+For more information about ticket fares and timetables please consult the website of RENFE-Rodalies.
+
+```{r creaf, echo=FALSE,  out.width = '50%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(path = "images/mapa_renfe_cat.png")
+```
+
+The train station is outside the UAB. There you will find (only on weekdays) free buses from the blue line at UAB. 
+ 
+The nearest bus stop is located CREAF just after the fire station roundabout.
+
+
+ 
+<h3>Using Ferrocarrils de la Generalitat</h3>
+At the station «Universitat Autònoma» Trains from FGC lines S2 {Barcelona - Sabadell} and {S55 Barcelona - Universitat Autònoma}.
+In Sant Cugat station can be transfer from the S1 {Barcelona - Terrassa} lines S2 and S55.
+For more information on prices and timetables please visit the website of [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/).
+ 
+The station is within the grounds of the UAB. Once outside the station to cross the Civic Square and walk the pavement in the direction of the Campus Faculty.
+
+```{r creaf_fgc, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(path = "images/fgc-creaf.jpg")
+```
+
 <br>
 <br>
 

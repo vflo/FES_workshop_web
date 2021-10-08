@@ -45,7 +45,7 @@ $(function() {
 
 
 <center>
-<h2>SAPFLUXNET WORKSHOP</h2> 
+<h2>**1st SAPFLUXNET WORKSHOP**</h2> 
 <h3>10-12 November 2021</h3>
 <h3>CAN BALASC - BARCELONA</h3>
 <br>
@@ -96,8 +96,9 @@ text-align: left}
 <p>Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
 <p>Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)</p>  
 <p>Paulo Bittencourt (PB), University of Exeter, UK</p> 
-<p>Bill Anderegg (BA), University of Utah, USA</p> 
-<p>Josep Peñuelas (JP), CREAF, Spain</p> 
+<p>Bill Anderegg (BA), University of Utah, USA</p>
+<p>Samuli Junttila (SJ), University of Eastern Finland, Finland</p>
+<p>Josep Peñuelas (JP), CREAF, Spain</p>
 <p>Maurizio Mencuccini (MM), CREAF, Spain</p>
 
 <br>
@@ -110,6 +111,19 @@ text-align: left}
 <p>Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB</p>
 <p>Miquel de Cáceres (MC), CREAF</p>
 <p>Brenda Fatecha (BF), CREAF</p>
+
+<br>
+<br>
+
+<h2>FACILITIES</h2>
+<h3>Can Balasc Biological Station</h3>
+<br>
+```{r balasc, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(dpi = 150, path = "images/balasc.jpg")
+```
+<br>
+Biological station near Barcelona. Located in the Serra de [Collserola](https://www.parcnaturalcollserola.cat/en/) Natural Park, one of the metropolitan area of Barcelona's largest and best preserved forest areas, Can Balasc has laboratories and greenhouses, a guest house with rooms for visiting researchers, and 100 ha of forests and experimental sites for research purposes. It is ideal for evaluating the effects of global change on Mediterranean metropolitan ecosystems, which provide essential ecosystem services and are especially affected by drivers of global change (land use changes, wildfires and invasive species). Several field experiments that have been running for more than 15 years and are part of the Spanish and European Long Term Ecological Research Networks (LTER-Spain and LTER-Europe) have been taking place at Can Balasc since 2012.
+
 
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
