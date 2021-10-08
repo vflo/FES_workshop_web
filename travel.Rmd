@@ -56,7 +56,7 @@ You need to know:
 There are two Aerobuses, the A1 and the A2. The first one from Terminal 1 and the second one from Terminal 2. A distinction to remember especially for your return because only this N° (A1 or A2) distinguishes the two buses in the return direction.
 The stops are not the same on the outward and return legs as shown on this map.
 
-```{r aerobus, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+```{r aerobus, echo=FALSE,  out.width = '100%',fig.pos="hbt!", fig.align="center"}
 knitr::include_graphics(path = "images/route.png")
 ```
 
@@ -175,7 +175,7 @@ For more information on prices and timetables please visit the website of [Ferro
  
 The station is within the grounds of the UAB. Once outside the station to cross the Civic Square and walk the pavement in the direction of the Campus Faculty.
 
-```{r creaf_fgc, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+```{r creaf_fgc, echo=FALSE,  out.width = '100%',fig.pos="hbt!", fig.align="center"}
 knitr::include_graphics(path = "images/fgc-creaf.jpg")
 ```
 
