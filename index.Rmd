@@ -55,7 +55,7 @@ $(function() {
 <br>
 
 ```{r logo, echo=FALSE,  out.width = '40%',fig.pos="hbt!", fig.align="center"}
-knitr::include_graphics(dpi = 300, path = "images/logo.png")
+knitr::include_graphics(dpi = 300, path = "images/logo_alt.png")
 ```
 
 <style>
