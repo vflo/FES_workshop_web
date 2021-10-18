@@ -14,6 +14,8 @@ navbar:
       href: travel.html
     - text: Accomodation
       href: accomodation.html
+    - text: Hike
+      href: hike.html
 output:
   html_document:
     includes:

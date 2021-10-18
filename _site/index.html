@@ -13,7 +13,7 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.10/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
 <script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
@@ -322,7 +322,7 @@ div.tocify {
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fa fa-home"></span>
+    <span class="fas fa-home"></span>
      
     Home
   </a>
@@ -345,6 +345,9 @@ div.tocify {
     </li>
     <li>
       <a href="accomodation.html">Accomodation</a>
+    </li>
+    <li>
+      <a href="hike.html">Hike</a>
     </li>
   </ul>
 </li>
@@ -409,7 +412,7 @@ Meeting the Potential of SAPFLUXNET to Ground-Truth Tree Water Use and Drought R
 </p>
 </center>
 <p><br></p>
-<p><img src="images/logo_alt.png" width="40%" style="display: block; margin: auto;" /></p>
+<p><img src="images/logo_alt.png" width="70%" style="display: block; margin: auto;" /></p>
 <style>
 body {
 text-align: left}
@@ -551,9 +554,6 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
-
-    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
-    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

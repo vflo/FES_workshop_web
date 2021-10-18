@@ -66,8 +66,8 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 ## TALKS
 
 <p>Rafael Poyatos - </p>
-<p>Jake Nelson - *ecosystem to global scale*</p>
-<p>Bill Anderegg - *ecosystem to global scale*</p>
+<p>Jake Nelson - </p>
+<p>Bill Anderegg - </p>
 <p>Alex Konings - </p>
 <p>Paulo Bittencourt - </p>
 <p>Mirco Migliavacca - </p>

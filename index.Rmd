@@ -54,7 +54,7 @@ $(function() {
 </center>
 <br>
 
-```{r logo, echo=FALSE,  out.width = '40%',fig.pos="hbt!", fig.align="center"}
+```{r logo, echo=FALSE,  out.width = '70%',fig.pos="hbt!", fig.align="center"}
 knitr::include_graphics(dpi = 300, path = "images/logo_alt.png")
 ```
 
