@@ -55,13 +55,11 @@ Papers are tagged depending on the specific workshop question(s) they address. I
 
 Transversal topics (can be associated to any of the 3 questions) 
 
-In brackets, tags linking to papers below 
+In brackets, tags linking to papers below:
 
-    Matching plant, site and grid-cell scales [scales] 
-
-    Context of global syntheses on plant and ecosystem functioning [synthesis] 
-
-    Improvements in SAPFLUXNET as a global network [network] 
+  +   Matching plant, site and grid-cell scales <b>[scales]</b>
+  +   Context of global syntheses on plant and ecosystem functioning <b>[synthesis]</b>
+  +   Improvements in SAPFLUXNET as a global network <b>[network]</b>
 <br>
 <br>
 
