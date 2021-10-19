@@ -71,11 +71,11 @@ In brackets, tags linking to papers below:
 
 <b>Zhang Y, Keenan TF, Zhou S. 2021.</b> Exacerbated drought impacts on global ecosystems due to structural overshoot. <em>Nature Ecology & Evolution</em> 1–9. https://doi.org/10.1038/s41559-021-01551-8 
 
-<b>Migliavacca, M., et al. 2021.</b> The three major axes of terrestrial ecosystem function. <em>Nature</em> 1–5. https://doi.org/10.1038/s41586-021-03939-9 <b>[synthesis]</b>
+<b>Migliavacca, M., <em>et al.</em> 2021.</b> The three major axes of terrestrial ecosystem function. <em>Nature</em> 1–5. https://doi.org/10.1038/s41586-021-03939-9 <b>[synthesis]</b>
 
-<b>Kannenberg SA, Schwalm CR, Anderegg WRL. 2020.</b> Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. <em>Ecology Letters</em> <b>23:</b> 891–901. <span style="color: red;">[Q1]</span> 
+<b>Kannenberg SA, Schwalm CR, Anderegg WRL. 2020.</b> Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. <em>Ecology Letters</em> <b>23:</b> 891–901. https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13485 <span style="color: red;">[Q1]</span> 
 
-<b>Schwalm CR, Anderegg WRL, Michalak AM, Fisher JB, Biondi F, Koch G, Litvak M, Ogle K, Shaw JD, Wolf A, et al. 2017.</b> Global patterns of drought recovery. <em>Nature</em> <b>548:</b> 202–205. <span style="color: red;">[Q1]</span> 
+<b>Schwalm CR, Anderegg WRL, Michalak AM, Fisher JB, Biondi F, Koch G, Litvak M, Ogle K, Shaw JD, Wolf A, <em>et al.</em> 2017.</b> Global patterns of drought recovery. <em>Nature</em> <b>548:</b> 202–205. <span style="color: red;">[Q1]</span> 
 
 <b>Jiao T, Williams CA, Kauwe MGD, Schwalm CR, Medlyn BE. 2021.</b> Patterns of post-drought recovery are strongly influenced by drought duration, frequency, post-drought wetness, and bioclimatic setting. <em>Global Change Biology</em> <b>27:</b> 4630–4643. <span style="color: red;">[Q1]</span> 
 
@@ -87,7 +87,7 @@ In brackets, tags linking to papers below:
 
 <b>Ingrisch J, Bahn M. 2018.</b> Towards a Comparable Quantification of Resilience. <em>Trends in Ecology & Evolution</em> <b>33:</b> 251–259. <span style="color: red;">[Q1]</span> 
 
-<b>Konings AG, Saatchi SS, Frankenberg C, Keller M, Leshyk V, Anderegg WRL, Humphrey V, Matheny AM, Trugman A, Sack L, et al.2021.</b> Detecting Forest Response to Droughts with Global Observations of Vegetation Water Content. <em>Global Change Biology</em> n/a. <span style="color: red;">[Q1]</span> 
+<b>Konings AG, Saatchi SS, Frankenberg C, Keller M, Leshyk V, Anderegg WRL, Humphrey V, Matheny AM, Trugman A, Sack L, <em>et al.</em> 2021.</b> Detecting Forest Response to Droughts with Global Observations of Vegetation Water Content. <em>Global Change Biology</em> n/a. <span style="color: red;">[Q1]</span> 
 
 <b>Feldman AF, Gianotti DJS, Trigo IF, Salvucci GD, Entekhabi D. 2020.</b> Land-Atmosphere Drivers of Landscape-Scale Plant Water Content Loss. <em>Geophysical Research Letters</em> 47:</b> e2020GL090331. <span style="color: red;">[Q1]</span> 
 
@@ -97,7 +97,7 @@ In brackets, tags linking to papers below:
 
 <b>Sabot MEB, Kauwe MGD, Pitman AJ, Medlyn BE, Verhoef A, Ukkola AM, Abramowitz G. 2020.</b> Plant profit maximization improves predictions of European forest responses to drought. <em>New Phytologist</em> <b>226:</b> 1638–1655. <span style="color: blue;">[Q2]</span> 
 
-<b>Eller CB, Rowland L, Mencuccini M, Rosas T, Williams K, Harper A, Medlyn BE, Wagner Y, Klein T, Teodoro GS, et al. 2020.</b> Stomatal optimization based on xylem hydraulics (SOX) improves land surface model simulation of vegetation responses to climate. <em>New Phytologist</em> <b>226:</b> 1622–1637. <span style="color: blue;">[Q2]</span> 
+<b>Eller CB, Rowland L, Mencuccini M, Rosas T, Williams K, Harper A, Medlyn BE, Wagner Y, Klein T, Teodoro GS, <em>et al.</em> 2020.</b> Stomatal optimization based on xylem hydraulics (SOX) improves land surface model simulation of vegetation responses to climate. <em>New Phytologist</em> <b>226:</b> 1622–1637. <span style="color: blue;">[Q2]</span> 
 
 <b>Liu Y, Kumar M, Katul GG, Feng X, Konings AG. 2020.</b> Plant hydraulics accentuates the effect of atmospheric moisture stress on transpiration. <em>Nature Climate Change</em> <b>10:</b> 691–695. <span style="color: blue;">[Q2]</span> 
 
@@ -111,7 +111,7 @@ In brackets, tags linking to papers below:
 
 <b>Novick KA, Biederman JA, Desai AR, Litvak ME, Moore DJP, Scott RL, Torn MS. 2018.</b> The AmeriFlux network: A coalition of the willing. <em>Agricultural and Forest Meteorology</em> <b>249:</b> 444–456. https://doi.org/10.1016/j.agrformet.2017.10.009 <b>[network]</b> 
 
-<b>Fer, et al. 2021</b>, Beyond ecosystem modeling: A roadmap to community cyberinfrastructure for ecological data-model integration. <em>Global Change Biology</em> <b>27:</b> 13–26. https://doi.org/10.1111/gcb.15409 <b>[network]</b> 
+<b>Fer, <em>et al.</em> 2021</b>, Beyond ecosystem modeling: A roadmap to community cyberinfrastructure for ecological data-model integration. <em>Global Change Biology</em> <b>27:</b> 13–26. https://doi.org/10.1111/gcb.15409 <b>[network]</b> 
 
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
