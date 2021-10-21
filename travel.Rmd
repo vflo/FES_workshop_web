@@ -111,7 +111,7 @@ You should know:
 
 That the taxis are easily recognisable because they are two-coloured (black and yellow).
 That there is no fixed price to go from the airport to the centre of Barcelona as there is in some countries.
-That the minimum fare for a taxi service from the airport is €20 (including all additional costs such as airport entry and exit taxes, which are €3.10). This means that your journey will cost you at least €20 even if you are going to an address close to the airport.
+That the minimum fare for a taxi service from the airport is €20 (including all additional costs such as airport entry and exit taxes, which are €3.10). This means that your journey will cost you at least €20 even if you are going to an address close to the airport, but ~€50 to the city center.
 That the night fare starts at 20:00 and ends at 8:00.
 
 <br>
