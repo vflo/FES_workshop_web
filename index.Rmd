@@ -8,9 +8,12 @@ output:
 ---
 
 <style>
-  .title{
+.title{
     display: none;
-  }
+}
+.tocify-extend-page { 
+  height: 50px !important;
+}
 </style>
 
 

@@ -43,6 +43,9 @@ $(function() {
 <style>
 body {
 text-align: left}
+.tocify-extend-page { 
+  height: 50px !important;
+}
 </style>
 
 ## SUGGESTED READING
@@ -73,7 +76,7 @@ In brackets, tags linking to papers below:
 
 <b>Migliavacca, M., <em>et al.</em> 2021.</b> The three major axes of terrestrial ecosystem function. <em>Nature</em> 1–5. https://doi.org/10.1038/s41586-021-03939-9 <b>[synthesis]</b>
 
-<b>Kannenberg SA, Schwalm CR, Anderegg WRL. 2020.</b> Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. <em>Ecology Letters</em> <b>23:</b> 891–901. https://onlinelibrary.wiley.com/doi/epdf/10.1111/ele.13485 <span style="color: red;">[Q1]</span> 
+<b>Kannenberg SA, Schwalm CR, Anderegg WRL. 2020.</b> Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. <em>Ecology Letters</em> <b>23:</b> 891–901. <span style="color: red;">[Q1]</span> 
 
 <b>Schwalm CR, Anderegg WRL, Michalak AM, Fisher JB, Biondi F, Koch G, Litvak M, Ogle K, Shaw JD, Wolf A, <em>et al.</em> 2017.</b> Global patterns of drought recovery. <em>Nature</em> <b>548:</b> 202–205. <span style="color: red;">[Q1]</span> 
 

@@ -9,6 +9,9 @@ output:
   .title{
     display: none;
   }
+.tocify-extend-page { 
+  height: 50px !important;
+}
 </style>
 
 ```{r setup, include=FALSE}
@@ -57,8 +60,6 @@ knitr::include_graphics(dpi = 300, path = "images/cancalopa.jpg")
 Collserola has a large number of farmhouses that used to be dedicated to agriculture. During the walk, we will visit some of these agroforestry landscapes. One example is the 16th-century farmhouse of Can Calopa de Dalt, overlooking the vineyards and with the Sagrat Cor cathedral in the distance. Part of the Cooperativa L'Olivera, Can Calopa produces quality wines and helps people with disabilities to integrate into society with housing, training and job opportunities.
 
 
-
-
 **Start:**
     Can Balasc
 
@@ -70,11 +71,6 @@ Collserola has a large number of farmhouses that used to be dedicated to agricul
 
 **Time:**
     2 hours
-
-<br>
-<br>
-<br>
-
 
 
 
