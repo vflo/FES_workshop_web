@@ -90,30 +90,32 @@ text-align: left}
 
 <h3>Workshop Participants:</h3>
 
-<p>Kim Novick (KN), Indiana University,USA</p> 
-<p>Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote)</p> 
-<p>Lucy Rowland (LR), University of Exeter, UK (Remote)</p>
 <p>Alexandra Konings (AK), Stanford University, USA</p> 
 <p>Diego Miralles (DM), Ghent University, Belgium</p> 
 <p>Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
-<p>Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
-<p>Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)</p>  
-<p>Paulo Bittencourt (PB), University of Exeter, UK</p> 
-<p>Bill Anderegg (BA), University of Utah, USA</p>
-<p>Samuli Junttila (SJ), University of Eastern Finland, Finland</p>
 <p>Josep Peñuelas (JP), CREAF, Spain</p>
+<p>Kimberly Novick (KN), Indiana University,USA</p>
+<p>Lucy Rowland (LR), University of Exeter, UK (Remote)</p>
 <p>Maurizio Mencuccini (MM), CREAF, Spain</p>
+<p>Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)</p> <p>Paulo Bittencourt (PB), University of Exeter, UK</p> 
+<p>Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote)</p> 
+<p>Samuli Junttila (SJ), University of Eastern Finland, Finland</p>
+<p>Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
+<p>William R.L. Anderegg (BA), University of Utah, USA</p>
 
 <br>
 <br>
 
 <h3>Organising committee:</h3>
+<p>Brenda Fatecha (BF), CREAF</p>
+<p>Jordi Martínez-Vilalta (JMV), CREAF/UAB</p>
+<p>Miquel de Cáceres (MC), CREAF</p>
 <p>Rafael Poyatos (RP), CREAF</p>
 <p>Víctor Flo (VF), CREAF</p>
 <p>Víctor Granda (VG), CREAF</p>
-<p>Jordi Martínez-Vilalta (JMV), CREAF/Professor UAB</p>
-<p>Miquel de Cáceres (MC), CREAF</p>
-<p>Brenda Fatecha (BF), CREAF</p>
+
+
+
 
 <br>
 <br>
