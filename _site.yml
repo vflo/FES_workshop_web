@@ -24,6 +24,6 @@ output:
     theme: flatly
     highlight: textmate
     toc_float: true
-output_dir: "_site"
+output_dir: "docs"
 include: ["import.R"]
 exclude: ["docs.txt", "*.csv"]
