@@ -27,7 +27,7 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  height: 80px;
+  height: 150px;
   padding: 20px 0;
   background-color: #2c3e50;
   text-align: center;
@@ -40,8 +40,12 @@ $(function() {
 })
 ```
 <style>
-body {
-text-align: left}
+.title{
+    display: none;
+}
+.tocify-extend-page { 
+  height: 100px !important;
+}
 </style>
 
 <h2>GETTING TO BARCELONA FROM THE AIRPORT</h2>
@@ -186,4 +190,5 @@ knitr::include_graphics(path = "images/fgc-creaf.jpg")
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
  <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>
+ <img src="images/CREAF SO - logo pluma_blanca ENG.png" alt="" height = "50">
 :::
