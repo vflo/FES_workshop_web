@@ -72,7 +72,7 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 <p>Jake Nelson - (S2)</p>
 <p>William R.L. Anderegg - Scaling drought responses: Sap flux, eddy covariance, satellites, and models (S2)</p>
 <p>Alex Konings - (S3)</p>
-<p>Paulo Bittencourt - (S3)</p>
+<p>Paulo Bittencourt - A new approach to evaluate global transpiration products using tree-scale sap flow data (S3)</p>
 <p>Mirco Migliavacca - Analysing Water use efficiency and transpiration in space and time: relationship with vegetation traits, structure, climate, and optical remote sensing (S4)</p>
 <p> Rosie Fisher - (S5)</p>
 <p>Lucy Rowland - (S6)</p>
