@@ -136,7 +136,7 @@ leaflet() %>% addTiles() %>%
   )
 ```
 
-To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). We will be waiting for you at LES PLANES station from 8:15 to 8:45, and we will take you by car to the country house where the workshop will take place.
+To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, Maurizio Mencuccini and Miquel de Cáceres will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.
 
 
 <br>
