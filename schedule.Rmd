@@ -69,13 +69,13 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 ## TALKS
 
 <p>Rafael Poyatos - (S1)</p>
-<p>Jake Nelson - (S2)</p>
+<p>Jacob Nelson - (S2)</p>
 <p>William R.L. Anderegg - Scaling drought responses: Sap flux, eddy covariance, satellites, and models (S2)</p>
-<p>Alex Konings - (S3)</p>
+<p>Alexandra Konings - (S3)</p>
 <p>Paulo Bittencourt - A new approach to evaluate global transpiration products using tree-scale sap flow data (S3)</p>
 <p>Mirco Migliavacca - Analysing Water use efficiency and transpiration in space and time: relationship with vegetation traits, structure, climate, and optical remote sensing (S4)</p>
 <p> Rosie Fisher - (S5)</p>
-<p>Lucy Rowland - (S6)</p>
+<p>Lucy Rowland - Problems with scaling tropical forest sapflux for modelling (S6)</p>
 <p>Diego Miralles - SAPFLUXNET to global transpiration: Hybrid modelling as a solution to upscaling (S6)</p>
 <p>Kimberly Novick - Opportunities for synthesis of SAPFLUXNET data with other network observations (S7)</p>
 
