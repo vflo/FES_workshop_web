@@ -58,7 +58,7 @@ $(function() {
 ```
 
 ## SCHEDULE
-Find the updated schedule <a href="./schedule/index.html" target="_blank">here</a>.
+<a href="./schedule/index.html" target="_blank">SAPFLUXNET WORKSHOP SCHEDULE</a>.
 
 Talks should be about 10-15 minutes long, after which will be time for discussion.
 
