@@ -93,7 +93,6 @@ text-align: left}
 <p>Alexandra Konings (AK), Stanford University, USA</p> 
 <p>Diego Miralles (DM), Ghent University, Belgium</p> 
 <p>Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany</p>
-<p>Josep Peñuelas (JP), CREAF, Spain</p>
 <p>Kimberly Novick (KN), Indiana University,USA</p>
 <p>Lucy Rowland (LR), University of Exeter, UK (Remote)</p>
 <p>Maurizio Mencuccini (MM), CREAF, Spain</p>
