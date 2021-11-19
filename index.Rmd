@@ -132,5 +132,5 @@ Biological station near Barcelona. Located in the Serra de [Collserola](https://
 ::: {.footer .text-muted .bg-info}
  <p>SAPFLUXNET Core Team<br>
  <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>
- <img src="images/CREAF SO - logo pluma_blanca ENG.png" alt="" height = "50">
+ <img src="images/CREAF SO - logo pluma_blanca ENG_ministerio.png" alt="" height = "50">
 :::
