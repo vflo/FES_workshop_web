@@ -113,7 +113,18 @@ text-align: left}
 <p>Víctor Flo (VF), CREAF</p>
 <p>Víctor Granda (VG), CREAF</p>
 
+<br>
+<br>
 
+```{r imagepost, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(dpi = 150, path = "images/image_post.jpg")
+```
+
+<br>
+
+```{r imagepost2, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(dpi = 150, path = "images/image_post2.jpg")
+```
 
 
 <br>
