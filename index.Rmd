@@ -115,7 +115,7 @@ text-align: left}
 <h3>Organising committee:</h3>
 <p>Jose V. Roces-Diaz (JR), UNIOVI</p>
 <p>Judit Lecina (JL), TUM</p>
-<p>Maria Angeles Perez-Navarro (MP), KCL</p>
+<p>Maria Angeles Perez-Navarro (MAPN), KCL</p>
 <p>Luciana Jaime (LJ), CREAF</p>
 <p>Albert Vila (AV), CREAF/Univ Sirling</p>
 <p>Victor Flo (VF), ICL/UAB</p>
