@@ -13,10 +13,10 @@
 
 <title>Home</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -316,13 +316,13 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">SAPFLUXNET WORKSHOP</a>
+      <a class="navbar-brand" href="index.html">FES WORKSHOP</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
@@ -384,13 +384,21 @@ html {
 body {
   margin-bottom: 40px;
 }
+
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 </style>
@@ -401,21 +409,23 @@ $(function() {
 </script>
 <center>
 <h2>
-<strong>1st SAPFLUXNET WORKSHOP</strong>
+<strong>FES WORKSHOP</strong>
 </h2>
 <h3>
-10-12 November 2021
+November 2022
 </h3>
 <h3>
 CAN BALASC - BARCELONA
 </h3>
 <br> <br>
 <p style="font-size:calc(14px + 1.5vw)">
-Meeting the Potential of SAPFLUXNET to Ground-Truth Tree Water Use and Drought Responses in Models and Remote Sensing Products at Regional to Global Scales
+Why, Where, When, What and How to compare ecosystem services
 </p>
 </center>
 <p><br></p>
-<p><img src="images/logo_alt.png" width="70%" style="display: block; margin: auto;" /></p>
+<!-- ```{r logo, echo=FALSE,  out.width = '70%',fig.pos="hbt!", fig.align="center"} -->
+<!-- knitr::include_graphics(dpi = 300, path = "images/logo_alt.png") -->
+<!-- ``` -->
 <style>
 body {
 text-align: left}
@@ -425,18 +435,20 @@ text-align: left}
 OVERVIEW
 </h2>
 <p style="text-align:justify;">
-Predicting forest water use and drought responses under global warming is one of the biggest challenges of Terrestrial Biosphere Models (TBMs). These models now represent tree water and carbon fluxes using trait-based optimality approaches, whereby trees maximise profit (carbon gain) given a cost imposed by the risk of losing the capacity to transport water (hydraulic risk). Optimality-based, hydraulically explicit TBMs provide a unifying theory potentially linking physiological responses, ecosystem function and demography and leverage a rapidly growing availability of plant hydraulic traits. Likewise, remote sensing products of plant water fluxes and pools show promise in describing transpiration, plant water content and physiological strategies across large spatial scales. Multi-site assessment of models and data products have typically used ecosystem fluxes, which may obscure plant physiological responses. The availability of global sap flow data in the SAPFLUXNET database now makes it possible to benchmark models and data products against tree-measured water fluxes worldwide. Combining SAPFLUXNET data with co-located measurements of leaf water potentials can reveal how plant hydraulic conductance responds to repeated droughts across species. Drought legacy effects pervade forest water content and flux dynamics worldwide, and a temporally-resolved tree perspective is necessary to disentangle the ecohydrological and physiological mechanisms driving these legacy effects as well the influences of drought intensity, duration, timing and sequence.
+Most biosphere’s ecosystems provide goods and services that are key to human well-being. Referred as ecosystem Services (ES), their provisions vary depending on their geographical and biophysical context the anthropogenic management and the history of disturbances they have suffered. Ecosystem services have been frequently quantified as absolute physical magnitudes or as monetary values. These absolute values, however, may not always be the best approximation for comparing ES provided by different ecosystems or under different historical or socio-ecological contexts. For instance, woodlands located in very arid areas may show lower annual carbon sequestration rates than forests in more humid areas, although the former may be closer to their maximum sequestration capacity than the latter. Therefore, higher absolute values do not necessarily mean that a specific ecosystem is more valuable in context-dependent terms. For this reason, it is key to consider historical (e.g., ES provision evolution), ecological, geographical (e.g., ES provision by spatially related ecosystems) and social (e.g., society ES demand) contexts for an adequate comparison between ES.
+</p>
+<p style="text-align:justify;">
+This workshop aims to identify when context dependency is relevant to measure ES and the different types of contexts (i.e., geographic -e.g., spatial scale-, temporal, social -e.g., society impact and demand-, etc.) that exist for comparing ES. With the goal of simplifying the discussions about the topic, we will use forest ecosystem services (FES) as a case of study.
 </p>
 <p><br> <br></p>
 <h2>
 QUESTIONS
 </h2>
-<p><b>(Q1)</b> How can we use sap flow and other data streams to quantify transpiration regulation in response to drought at multiple timescales, including the response to repeated seasonal droughts (i.e., tree water use resilience)?</p>
-<p><b>(Q2)</b> To what extent are key models and remote sensing products capable of reproducing the hydrometeorological controls on transpiration and the physiological resilience patterns observed globally, including the impact and recovery from drought events?</p>
-<p><b>(Q3)</b> Can whole plant hydraulic conductance, estimated from sap flow and water potential time series, bridge the gap between empirical transpiration responses to drought and modelling results?</p>
-<p>
- <b>Q3a</b> How are in situ estimates of plant hydraulic conductance related to large-scale estimates obtained from model inversion?
-</p>
+<p><b>WHY</b></p>
+<p><b>WHERE</b></p>
+<p><b>WHEN</b></p>
+<p><b>WHAT</b></p>
+<p><b>HOW </b></p>
 <p><br> <br></p>
 <h2>
 LIST OF ATTENDEES
@@ -445,67 +457,39 @@ LIST OF ATTENDEES
 Workshop Participants:
 </h3>
 <p>
-Alexandra Konings (AK), Stanford University, USA
+Jordi Martinez-Vilalta (MM), CREAF/UAB, Spain
 </p>
 <p>
-Diego Miralles (DM), Ghent University, Belgium
+Francisco Lloret (FLL), CREAF/UAB, Spain
 </p>
 <p>
-Jacob Nelson (JN), Max-Planck Institute for Biogeochemistry Jena, Germany
+Josep M. Espelta (JE), CREAF, Spain
 </p>
 <p>
-Kimberly Novick (KN), Indiana University,USA
-</p>
-<p>
-Lucy Rowland (LR), University of Exeter, UK (Remote)
-</p>
-<p>
-Maurizio Mencuccini (MM), CREAF, Spain
-</p>
-<p>
-Mirco Migliavacca (MiM), European Commission, Joint Research Centre (JRC), Ispra, Italy (Remote)
-</p>
-<p>
-Paulo Bittencourt (PB), University of Exeter, UK
-</p>
-<p>
-Rosie Fisher (RF), Univ. Paul Sabatier III. Toulouse, France. (Remote)
-</p>
-<p>
-Samuli Junttila (SJ), University of Eastern Finland, Finland
-</p>
-<p>
-Weijie Zhang (WZ), Max-Planck Institute for Biogeochemistry Jena, Germany
-</p>
-<p>
-William R.L. Anderegg (BA), University of Utah, USA
+Javier Retana (JR), CREAF/UAB, Spain
 </p>
 <p><br> <br></p>
 <h3>
 Organising committee:
 </h3>
 <p>
-Brenda Fatecha (BF), CREAF
+Jose V. Roces-Diaz (JR), UNIOVI
 </p>
 <p>
-Jordi Martínez-Vilalta (JMV), CREAF/UAB
+Judit Lecina (JL), TUM
 </p>
 <p>
-Miquel de Cáceres (MC), CREAF
+Maria Angeles Perez-Navarro (MP), KCL
 </p>
 <p>
-Rafael Poyatos (RP), CREAF
+Luciana Jaime (LJ), CREAF
 </p>
 <p>
-Víctor Flo (VF), CREAF
+Albert Vila (AV), CREAF/Univ Sirling
 </p>
 <p>
-Víctor Granda (VG), CREAF
+Victor Flo (VF), ICL/UAB
 </p>
-<p><br> <br></p>
-<p><img src="images/image_post.jpg" width="80%" style="display: block; margin: auto;" /></p>
-<p><br></p>
-<p><img src="images/image_post2.jpg" width="80%" style="display: block; margin: auto;" /></p>
 <p><br> <br></p>
 <h2>
 FACILITIES
@@ -516,7 +500,7 @@ Can Balasc Biological Station
 <p><br> <img src="images/balasc.jpg" width="80%" style="display: block; margin: auto;" /> <br> Biological station near Barcelona. Located in the Serra de <a href="https://www.parcnaturalcollserola.cat/en/">Collserola</a> Natural Park, one of the metropolitan area of Barcelona’s largest and best preserved forest areas, Can Balasc has laboratories and greenhouses, a guest house with rooms for visiting researchers, and 100 ha of forests and experimental sites for research purposes. It is ideal for evaluating the effects of global change on Mediterranean metropolitan ecosystems, which provide essential ecosystem services and are especially affected by drivers of global change (land use changes, wildfires and invasive species). Several field experiments that have been running for more than 15 years and are part of the Spanish and European Long Term Ecological Research Networks (LTER-Spain and LTER-Europe) have been taking place at Can Balasc since 2012.</p>
 <div class="footer text-muted bg-info">
 <p>
-SAPFLUXNET Core Team<br> <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a>
+FES workshop organising committee<br> <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
 </p>
 <p><img src="images/CREAF%20SO%20-%20logo%20pluma_blanca%20ENG_ministerio.png" alt="" height = "50"></p>
 </div>
@@ -559,6 +543,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

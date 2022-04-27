@@ -13,10 +13,10 @@
 
 <title>Accomodation</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -316,13 +316,13 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">SAPFLUXNET WORKSHOP</a>
+      <a class="navbar-brand" href="index.html">FES WORKSHOP</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
@@ -384,13 +384,19 @@ html {
 body {
   margin-bottom: 40px;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 </style>
@@ -412,7 +418,7 @@ text-align: left}
 <p>Guests can easily enjoy this cosmopolitan city as Hotel Catalonia La Pedrera is within walking distance of Barcelona’s many attractions. As well as the excellent public transport links providing swift access to the entire city and the surrounding area, the hotel offers great value for money. The hotel also includes meeting amenities and conference rooms available for business events and banquets. <br> <br> <br></p>
 <div class="footer text-muted bg-info">
 <p>
-SAPFLUXNET Core Team<br> <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a>
+FES workshop organising committee<br> <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
 </p>
 <p><img src="images/CREAF%20SO%20-%20logo%20pluma_blanca%20ENG_ministerio.png" alt="" height = "50"></p>
 </div>
@@ -456,6 +462,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

@@ -1,5 +1,5 @@
 navbar:
-  title: SAPFLUXNET WORKSHOP
+  title: FES WORKSHOP
   left:
   - text: Home
     icon: fa-home
@@ -21,7 +21,7 @@ output:
     includes:
       in_header: 
       - header.html
-    theme: flatly
+    theme: yeti
     highlight: textmate
     toc_float: true
 output_dir: "docs"

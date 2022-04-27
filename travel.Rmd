@@ -23,13 +23,19 @@ html {
 body {
   margin-bottom: 40px;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 ```
@@ -136,7 +142,7 @@ leaflet() %>% addTiles() %>%
   )
 ```
 
-To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, Maurizio Mencuccini and Miquel de Cáceres will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.
+To get to Can Balasc, you might use [Ferrocarrils de la Generalitat de Catalunya](https://www.fgc.cat/en/fgc-network/l-barcelona-valles/) (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, one of the members of the organising committe will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.
 
 
 <br>
@@ -188,7 +194,7 @@ knitr::include_graphics(path = "images/fgc-creaf.jpg")
 
 
 ::: {.footer .text-muted .bg-info}
- <p>SAPFLUXNET Core Team<br>
- <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>
+ <p>FES workshop organising committee<br>
+ <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a></p>
  <img src="images/CREAF SO - logo pluma_blanca ENG_ministerio.png" alt="" height = "50">
 :::

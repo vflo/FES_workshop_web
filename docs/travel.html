@@ -13,10 +13,10 @@
 
 <title>Travel information</title>
 
-<script src="site_libs/header-attrs-2.8/header-attrs.js"></script>
-<script src="site_libs/jquery-1.12.4/jquery.min.js"></script>
+<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
 <script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
@@ -35,14 +35,14 @@
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
 <link href="site_libs/highlightjs-9.12.0/textmate.css" rel="stylesheet" />
 <script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
-<script src="site_libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<script src="site_libs/htmlwidgets-1.5.4/htmlwidgets.js"></script>
 <link href="site_libs/leaflet-1.3.1/leaflet.css" rel="stylesheet" />
 <script src="site_libs/leaflet-1.3.1/leaflet.js"></script>
 <link href="site_libs/leafletfix-1.0.0/leafletfix.css" rel="stylesheet" />
 <script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
 <script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
 <link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
-<script src="site_libs/leaflet-binding-2.0.4.1/leaflet.js"></script>
+<script src="site_libs/leaflet-binding-2.1.0/leaflet.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <link rel="icon" type="image/png" href="images/favicon.ico"/>
@@ -324,13 +324,13 @@ div.tocify {
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <a class="navbar-brand" href="index.html">SAPFLUXNET WORKSHOP</a>
+      <a class="navbar-brand" href="index.html">FES WORKSHOP</a>
     </div>
     <div id="navbar" class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
         <li>
   <a href="index.html">
-    <span class="fas fa-home"></span>
+    <span class="fa fa-home"></span>
      
     Home
   </a>
@@ -389,13 +389,19 @@ html {
 body {
   margin-bottom: 40px;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 </style>
@@ -463,9 +469,9 @@ Taxi transfer from the airport to Barcelona city centre
 <h2>
 GETTING TO CAN BALASC FROM BARCELONA
 </h2>
-<div id="htmlwidget-b0ad9418a9a3292f4f65" style="width:100%;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-b0ad9418a9a3292f4f65">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[41.43,2.078,"Here is <b>Can Balasc<\/b>",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""}]}],"setView":[[41.43,2.078],12,[]],"limits":{"lat":[41.43,41.43],"lng":[2.078,2.078]}},"evals":[],"jsHooks":[]}</script>
-<p>To get to Can Balasc, you might use <a href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils de la Generalitat de Catalunya</a> (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, Maurizio Mencuccini and Miquel de Cáceres will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.</p>
+<div id="htmlwidget-a4fc75f046ae7c5cf231" style="width:100%;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-a4fc75f046ae7c5cf231">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[41.43,2.078,"Here is <b>Can Balasc<\/b>",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""}]}],"setView":[[41.43,2.078],12,[]],"limits":{"lat":[41.43,41.43],"lng":[2.078,2.078]}},"evals":[],"jsHooks":[]}</script>
+<p>To get to Can Balasc, you might use <a href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils de la Generalitat de Catalunya</a> (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, one of the members of the organising committe will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.</p>
 <p><br> <br> <br></p>
 <h2>
 GETTING TO CREAF FROM BARCELONA
@@ -492,7 +498,7 @@ Using Ferrocarrils de la Generalitat
 <p><br> <br></p>
 <div class="footer text-muted bg-info">
 <p>
-SAPFLUXNET Core Team<br> <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a>
+FES workshop organising committee<br> <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
 </p>
 <p><img src="images/CREAF%20SO%20-%20logo%20pluma_blanca%20ENG_ministerio.png" alt="" height = "50"></p>
 </div>
@@ -535,6 +541,9 @@ $(document).ready(function () {
 
 <script>
 $(document).ready(function ()  {
+
+    // temporarily add toc-ignore selector to headers for the consistency with Pandoc
+    $('.unlisted.unnumbered').addClass('toc-ignore')
 
     // move toc-ignore selectors from section div to header
     $('div.section.toc-ignore')

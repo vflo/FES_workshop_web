@@ -26,13 +26,19 @@ html {
 body {
   margin-bottom: 40px;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 body{margin-top:20px;}
@@ -58,7 +64,7 @@ $(function() {
 ```
 
 ## SCHEDULE
-<a href="./schedule/index.html" target="_blank">SAPFLUXNET WORKSHOP SCHEDULE</a>
+<a href="./schedule/index.html" target="_blank">FES WORKSHOP SCHEDULE</a>
 
 Talks should be about 10-15 minutes long, after which will be time for discussion.
 
@@ -68,21 +74,16 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 
 ## TALKS
 
-<p>Rafael Poyatos - (S1)</p>
-<p>Jacob Nelson - Opportunities and challenges of capturing ecosystem water use dynamics at different scales (S2)</p>
-<p>William R.L. Anderegg - Scaling drought responses: Sap flux, eddy covariance, satellites, and models (S2)</p>
-<p>Alexandra Konings - (S3)</p>
-<p>Paulo Bittencourt - A new approach to evaluate global transpiration products using tree-scale sap flow data (S3)</p>
-<p>Mirco Migliavacca - Analysing Water use efficiency and transpiration in space and time: relationship with vegetation traits, structure, climate, and optical remote sensing (S4)</p>
-<p> Rosie Fisher - (S5)</p>
-<p>Lucy Rowland - Problems with scaling tropical forest sapflux for modelling (S6)</p>
-<p>Diego Miralles - SAPFLUXNET to global transpiration: Hybrid modelling as a solution to upscaling (S6)</p>
-<p>Kimberly Novick - Opportunities for synthesis of SAPFLUXNET data with other network observations (S7)</p>
+<p>Jose V. Roce-Diaz - (S0)</p>
+<p>Jordi Martinez-Vilalta - general aspects about forest ecological functioning and ES delivery. The case of Mediterranean forests (S0)</p>
 
+<br>
+<br>
+<br>
 
 
 ::: {.footer .text-muted .bg-info}
- <p>SAPFLUXNET Core Team<br>
- <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>
+ <p>FES workshop organising committee<br>
+ <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a></p>
  <img src="images/CREAF SO - logo pluma_blanca ENG_ministerio.png" alt="" height = "50">
 :::

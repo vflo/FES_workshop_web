@@ -27,13 +27,19 @@ html {
 body {
   margin-bottom: 40px;
 }
+.list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover {
+    z-index: 2;
+    color: #fff;
+    background-color: #555555;
+    border-color: #555555;
+}
 .footer {
   position: absolute;
   bottom: 0;
   width: 100%;
   height: 150px;
   padding: 20px 0;
-  background-color: #2c3e50;
+  background-color: #333333;
   text-align: center;
 }
 ```
@@ -55,76 +61,31 @@ text-align: left}
 
 ### A community sourced list of publications to read
 
-Selected papers from this bibliography can be listed in the website as ‘suggested readings’ along with our sapfluxnet papers (including pre-prints). 
 <br>
 Papers are tagged depending on the specific workshop question(s) they address. If untagged, they provide useful context or tools that can’t be unequivocally assigned to any of the questions. 
 
-Transversal topics (can be associated to any of the 3 questions) 
+Transversal topics (can be associated to any of the 5 questions) 
 
 In brackets, tags linking to papers below:
 
-  +   Matching plant, site and grid-cell scales <b>[scales]</b>
-  +   Context of global syntheses on plant and ecosystem functioning <b>[synthesis]</b>
-  +   Improvements in SAPFLUXNET as a global network <b>[network]</b>
+  +   Main reasons for (or against) the comparisons on the delivery of ES <b>[WHY]</b>
+  +   Levels of geographical variation or spatial scales relevant for the comparison of ES <b>[WHERE]</b>
+  +   The role of the temporal component in ES comparative analyses <b>[WHEN]</b>
+  +   To identify a series of ES and a series of (their) indicators which may allow (or not) these comparisons <b>[WHAT]</b>
+  +   Potential methodologies to make ES comparable <b>[HOW]</b>
 <br>
 <br>
 
-<b>Cranko Page J, De Kauwe MG, Abramowitz G, Cleverly J, Hinko-Najera N, Hovenden MJ, Liu Y, Pitman AJ, Ogle K. 2021.</b> Examining the Role of Environmental Memory in the Predictability of Carbon and Water Fluxes Across Australian Ecosystems. <em>Biogeosciences Discussions</em> 1–29. https://doi.org/10.5194/bg-2021-254 
+<b>Andersson E., McPhearson T., Kremer P., Gomez-Baggethun E., Haase D., Tuvendal M., & Wurster D. 2015.</b> Scale and context dependence of ecosystem service providing units. <em>Ecosystem Services</em> <b>12</b> 157-164. https://doi.org/10.1016/j.ecoser.2014.08.001 <b>[WHERE]</b>
 
-<b>Liu Y, Schwalm CR, Samuels-Crow KE, Ogle K. 2019.</b> Ecological memory of daily carbon exchange across the globe and its importance in drylands. <em>Ecology Letters</em> <b>22(11):</b> 1806–1816. https://doi.org/10.1111/ele.13363 
-
-<b>Maes WH, Pagán BR, Martens B, Gentine P, Guanter L, Steppe K, Verhoest NEC, Dorigo W, Li X, Xiao J, Miralles, DG 2020</b>. Sun-induced fluorescence closely linked to ecosystem transpiration as evidenced by satellite data and radiative transfer models. <em>Remote Sensing of Environment</em> <b>249</b> 112030. https://doi.org/10.1016/j.rse.2020.112030 
-
-<b>Zhang Y, Keenan TF, Zhou S. 2021.</b> Exacerbated drought impacts on global ecosystems due to structural overshoot. <em>Nature Ecology & Evolution</em> 1–9. https://doi.org/10.1038/s41559-021-01551-8 
-
-<b>Migliavacca, M., <em>et al.</em> 2021.</b> The three major axes of terrestrial ecosystem function. <em>Nature</em> 1–5. https://doi.org/10.1038/s41586-021-03939-9 <b>[synthesis]</b>
-
-<b>Kannenberg SA, Schwalm CR, Anderegg WRL. 2020.</b> Ghosts of the past: how drought legacy effects shape forest functioning and carbon cycling. <em>Ecology Letters</em> <b>23:</b> 891–901. <span style="color: red;">[Q1]</span> 
-
-<b>Schwalm CR, Anderegg WRL, Michalak AM, Fisher JB, Biondi F, Koch G, Litvak M, Ogle K, Shaw JD, Wolf A, <em>et al.</em> 2017.</b> Global patterns of drought recovery. <em>Nature</em> <b>548:</b> 202–205. <span style="color: red;">[Q1]</span> 
-
-<b>Jiao T, Williams CA, Kauwe MGD, Schwalm CR, Medlyn BE. 2021.</b> Patterns of post-drought recovery are strongly influenced by drought duration, frequency, post-drought wetness, and bioclimatic setting. <em>Global Change Biology</em> <b>27:</b> 4630–4643. <span style="color: red;">[Q1]</span> 
-
-<b>Zhang S, Yang Y, Wu X, Li X, Shi F. 2021.</b> Postdrought Recovery Time Across Global Terrestrial Ecosystems. <em>Journal of Geophysical Research: Biogeosciences</em> <b>126:</b> e2020JG005699. <span style="color: red;">[Q1]</span> 
-
-<b>Yin J, Bauerle TL. 2017.</b> A global analysis of plant recovery performance from water stress. <em>Oikos</em> <b>126:</b> 1377–1388. <span style="color: red;">[Q1]</span> 
-
-<b>Liu L, Zhang Y, Wu S, Li S, Qin D. 2018.</b> Water memory effects and their impacts on global vegetation productivity and resilience. <em>Scientific Reports</em> <b>8:</b> 2962. <span style="color: red;">[Q1]</span> 
-
-<b>Ingrisch J, Bahn M. 2018.</b> Towards a Comparable Quantification of Resilience. <em>Trends in Ecology & Evolution</em> <b>33:</b> 251–259. <span style="color: red;">[Q1]</span> 
-
-<b>Konings AG, Saatchi SS, Frankenberg C, Keller M, Leshyk V, Anderegg WRL, Humphrey V, Matheny AM, Trugman A, Sack L, <em>et al.</em> 2021.</b> Detecting Forest Response to Droughts with Global Observations of Vegetation Water Content. <em>Global Change Biology</em> n/a. <span style="color: red;">[Q1]</span> 
-
-<b>Feldman AF, Gianotti DJS, Trigo IF, Salvucci GD, Entekhabi D. 2020.</b> Land-Atmosphere Drivers of Landscape-Scale Plant Water Content Loss. <em>Geophysical Research Letters</em> 47:</b> e2020GL090331. <span style="color: red;">[Q1]</span> 
-
-<b>Feldman AF, Short Gianotti DJ, Konings AG, McColl KA, Akbar R, Salvucci GD, Entekhabi D. 2018.</b> Moisture pulse-reserve in the soil-plant continuum observed across biomes. <em>Nature Plants</em> <b>4:</b> 1026–1033. <span style="color: red;">[Q1]</span> 
-
-<b>Anderegg WRL, Venturas MD. 2020.</b> Plant hydraulics play a critical role in Earth system fluxes. <em>New Phytologist</em> <b>226:</b> 1535–1538.<span style="color: blue;">[Q2]</span> 
-
-<b>Sabot MEB, Kauwe MGD, Pitman AJ, Medlyn BE, Verhoef A, Ukkola AM, Abramowitz G. 2020.</b> Plant profit maximization improves predictions of European forest responses to drought. <em>New Phytologist</em> <b>226:</b> 1638–1655. <span style="color: blue;">[Q2]</span> 
-
-<b>Eller CB, Rowland L, Mencuccini M, Rosas T, Williams K, Harper A, Medlyn BE, Wagner Y, Klein T, Teodoro GS, <em>et al.</em> 2020.</b> Stomatal optimization based on xylem hydraulics (SOX) improves land surface model simulation of vegetation responses to climate. <em>New Phytologist</em> <b>226:</b> 1622–1637. <span style="color: blue;">[Q2]</span> 
-
-<b>Liu Y, Kumar M, Katul GG, Feng X, Konings AG. 2020.</b> Plant hydraulics accentuates the effect of atmospheric moisture stress on transpiration. <em>Nature Climate Change</em> <b>10:</b> 691–695. <span style="color: blue;">[Q2]</span> 
-
-<b>Sloan BP, Thompson SE, Feng X. 2021.</b> Plant hydraulic transport controls transpiration sensitivity to soil water stress. <em>Hydrology and Earth System Sciences</em> <b>25:</b> 4259–4274. <span style="color: blue;">[Q2]</span> 
-
-<b>Liu Y, Holtzman NM, Konings AG. 2021a.</b> Global ecosystem-scale plant hydraulic traits retrieved using model–data fusion. <em>Hydrology and Earth System Sciences</em> <b>25:</b> 2399–2417. <span style="color: green;">[Q3]</span> 
-
-<b>Liu Y, Konings AG, Kennedy D, Gentine P. 2021b.</b> Global Coordination in Plant Physiological and Rooting Strategies in Response to Water Stress. <em>Global Biogeochemical Cycles</em> <b>35:</b> e2020GB006758. <span style="color: green;">[Q3]</span> 
-
-<b>Gallagher RV, Falster DS, Maitner BS, Salguero-Gómez R, Vandvik V, Pearse WD, Schneider FD, Kattge J, Poelen JH, Madin JS, Ankenbrand MJ, Penone C, Feng X, Adams VM, Alroy J, Andrew SC, Balk MA, Bland LM, Boyle BL, … Enquist BJ. 2020.</b> Open Science principles for accelerating trait-based science across the Tree of Life. <em>Nature Ecology & Evolution</em> 1–10. https://doi.org/10.1038/s41559-020-1109-6 <b>[network]</b> 
-
-<b>Novick KA, Biederman JA, Desai AR, Litvak ME, Moore DJP, Scott RL, Torn MS. 2018.</b> The AmeriFlux network: A coalition of the willing. <em>Agricultural and Forest Meteorology</em> <b>249:</b> 444–456. https://doi.org/10.1016/j.agrformet.2017.10.009 <b>[network]</b> 
-
-<b>Fer, <em>et al.</em> 2021</b>, Beyond ecosystem modeling: A roadmap to community cyberinfrastructure for ecological data-model integration. <em>Global Change Biology</em> <b>27:</b> 13–26. https://doi.org/10.1111/gcb.15409 <b>[network]</b> 
+<b>Aziz T., & Van Cappellen P. 2019.</b> Comparative valuation of potential and realized ecosystem services in Southern Ontario, Canada. <em>Environmental Science & Policy</em> <b>100</b> 105-112. https://doi.org/10.1016/j.envsci.2019.06.014 
 
 <br>
 <br>
 <br>
 
 ::: {.footer .text-muted .bg-info}
- <p>SAPFLUXNET Core Team<br>
- <a href="mailto:sapfluxnet@creaf.uab.cat">sapfluxnet@creaf.uab.cat</a></p>
+ <p>FES workshop organising committee<br>
+ <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a></p>
  <img src="images/CREAF SO - logo pluma_blanca ENG_ministerio.png" alt="" height = "50">
 :::
