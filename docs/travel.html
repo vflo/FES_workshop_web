@@ -13,7 +13,7 @@
 
 <title>Travel information</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -42,7 +42,7 @@
 <script src="site_libs/proj4-2.6.2/proj4.min.js"></script>
 <script src="site_libs/Proj4Leaflet-1.0.1/proj4leaflet.js"></script>
 <link href="site_libs/rstudio_leaflet-1.3.1/rstudio_leaflet.css" rel="stylesheet" />
-<script src="site_libs/leaflet-binding-2.1.0/leaflet.js"></script>
+<script src="site_libs/leaflet-binding-2.1.1/leaflet.js"></script>
 <link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
 <link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
 <link rel="icon" type="image/png" href="images/favicon.ico"/>
@@ -74,6 +74,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -94,6 +95,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -319,7 +323,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -342,7 +346,7 @@ div.tocify {
   <a href="suggested.html">Suggested readings</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Details
      
     <span class="caret"></span>
@@ -421,84 +425,166 @@ $(function() {
 <h2>
 GETTING TO BARCELONA FROM THE AIRPORT
 </h2>
-<p>Barcelona airport is well connected to Barcelona city centre. Most airport-city transfers take about forty minutes, including waiting time. Note, however, that it has two terminals, T1 and T2, and that the departure points - for the same means of transport - are not the same from one terminal to the other.</p>
+<p>Barcelona airport is well connected to Barcelona city centre. Most
+airport-city transfers take about forty minutes, including waiting time.
+Note, however, that it has two terminals, T1 and T2, and that the
+departure points - for the same means of transport - are not the same
+from one terminal to the other.</p>
 <h3>
 Transfer by Aerobus
 </h3>
-<p>The Aerobús is a fast (35 minutes) and economical (5,90€) shuttle bus that connects Barcelona-El Prat Airport (Terminals 1 and 2) with the centre of Barcelona (Plaza de Cataluña). The route includes 3 stops at strategic points in Barcelona: Pl. Espanya, Gran Via-Urgell, Pl. Universitat.The Aerobus operates all year round with a departure every 5 minutes.</p>
+<p>The Aerobús is a fast (35 minutes) and economical (5,90€) shuttle bus
+that connects Barcelona-El Prat Airport (Terminals 1 and 2) with the
+centre of Barcelona (Plaza de Cataluña). The route includes 3 stops at
+strategic points in Barcelona: Pl. Espanya, Gran Via-Urgell, Pl.
+Universitat.The Aerobus operates all year round with a departure every 5
+minutes.</p>
 <p>You need to know:</p>
-<p>There are two Aerobuses, the A1 and the A2. The first one from Terminal 1 and the second one from Terminal 2. A distinction to remember especially for your return because only this N° (A1 or A2) distinguishes the two buses in the return direction. The stops are not the same on the outward and return legs as shown on this map.</p>
+<p>There are two Aerobuses, the A1 and the A2. The first one from
+Terminal 1 and the second one from Terminal 2. A distinction to remember
+especially for your return because only this N° (A1 or A2) distinguishes
+the two buses in the return direction. The stops are not the same on the
+outward and return legs as shown on this map.</p>
 <p><img src="images/route.png" width="100%" style="display: block; margin: auto;" /></p>
 <h4>
 How to buy an Aerobus ticket?
 </h4>
-<p>You can buy your Aerobus ticket at the ticket machines located in Terminal T1 and T2, but you risk losing time in case of heavy traffic, you can also buy your ticket on board the Aerobus. The driver does not give change for a ticket of 20€ or more. Finally you can buy your Aerobus ticket online, which is what we recommend. <br> <br></p>
+<p>You can buy your Aerobus ticket at the ticket machines located in
+Terminal T1 and T2, but you risk losing time in case of heavy traffic,
+you can also buy your ticket on board the Aerobus. The driver does not
+give change for a ticket of 20€ or more. Finally you can buy your
+Aerobus ticket online, which is what we recommend. <br> <br></p>
 <h3>
 Transfer by train from Airport Terminal 2
 </h3>
-<p>The train only departs from Terminal T2. If you arrive via Terminal T1 you will have to take the free shuttle bus that connects the two terminals: it is an easily recognisable green bus. Renfe is the name of the Spanish national railway company. Therefore, you should look for this indication in terminal T2. It only stops at two stations in the centre of Barcelona: Estació Sants and Passeig de Gràcia. The line that connects the city centre is the R2 North line.</p>
+<p>The train only departs from Terminal T2. If you arrive via Terminal
+T1 you will have to take the free shuttle bus that connects the two
+terminals: it is an easily recognisable green bus. Renfe is the name of
+the Spanish national railway company. Therefore, you should look for
+this indication in terminal T2. It only stops at two stations in the
+centre of Barcelona: Estació Sants and Passeig de Gràcia. The line that
+connects the city centre is the R2 North line.</p>
 <h4>
 How to buy a train ticket?
 </h4>
-<p>At the Renfe station you will find cash machines and ticket offices to buy your train ticket. You can also buy the Hola BCN public transport card, which includes the airport / Barcelona city centre journey. It will then serve you for all the journeys you make around the city. <br> <br></p>
+<p>At the Renfe station you will find cash machines and ticket offices
+to buy your train ticket. You can also buy the Hola BCN public transport
+card, which includes the airport / Barcelona city centre journey. It
+will then serve you for all the journeys you make around the city. <br>
+<br></p>
 <h3>
 Transfer by metro (Line 9)
 </h3>
-<p>Both Barcelona Airport terminals T1 and T2 are connected to the Barcelona metro network, which is very convenient for passengers:</p>
-<p>You need to know: Both metro stations are located at the exit of each terminal T1 and T2 and are very well signposted. Line 9 (L9) does not go directly to the city centre. For example, you have to change at Torrassa to take the red line that connects Universitat or Plaça de Catalunya. Change at Collblanc for the blue line to Provença, Diagonal or Sagrada Familia.</p>
+<p>Both Barcelona Airport terminals T1 and T2 are connected to the
+Barcelona metro network, which is very convenient for passengers:</p>
+<p>You need to know: Both metro stations are located at the exit of each
+terminal T1 and T2 and are very well signposted. Line 9 (L9) does not go
+directly to the city centre. For example, you have to change at Torrassa
+to take the red line that connects Universitat or Plaça de Catalunya.
+Change at Collblanc for the blue line to Provença, Diagonal or Sagrada
+Familia.</p>
 <h4>
 How to buy a metro ticket?
 </h4>
-<p>At the metro station you will find cash machines and ATMs to buy your metro ticket. You can also buy the Hola BCN public transport card online, which will be used for all your journeys around the city. <br> <br></p>
+<p>At the metro station you will find cash machines and ATMs to buy your
+metro ticket. You can also buy the Hola BCN public transport card
+online, which will be used for all your journeys around the city. <br>
+<br></p>
 <h3>
 Barcelona Airport - City centre by Night Bus
 </h3>
-<p>If you arrive in Barcelona at night, the night bus is the only way to get to the city centre by public transport. It is also a cheaper solution than taxis or private transfers.</p>
-<p>You should know: That the N17 bus runs from the airport’s T1 terminal to the city centre. That the N16 bus runs from the airport terminal T2 to the city centre. That the N18 bus runs from airport terminal T1 and T2 to the city centre - This is a back-up bus in case of heavy traffic.</p>
+<p>If you arrive in Barcelona at night, the night bus is the only way to
+get to the city centre by public transport. It is also a cheaper
+solution than taxis or private transfers.</p>
+<p>You should know: That the N17 bus runs from the airport’s T1 terminal
+to the city centre. That the N16 bus runs from the airport terminal T2
+to the city centre. That the N18 bus runs from airport terminal T1 and
+T2 to the city centre - This is a back-up bus in case of heavy
+traffic.</p>
 <h4>
 Where is the bus stop?
 </h4>
-<p>Bus stop N16 is located outside terminals T2a, T2b and T2c. The N17 bus stop is located at the exit of terminals T1 on the left side of the flight departure. The N16 bus stop is located outside terminals T1, T2a, T2b and T2c. <br> <br></p>
+<p>Bus stop N16 is located outside terminals T2a, T2b and T2c. The N17
+bus stop is located at the exit of terminals T1 on the left side of the
+flight departure. The N16 bus stop is located outside terminals T1, T2a,
+T2b and T2c. <br> <br></p>
 <h3>
 Taxi transfer from the airport to Barcelona city centre
 </h3>
-<p>Taking a taxi to the centre of Barcelona from the airport is the easiest and quickest solution. It is not excessively expensive as long as you are at least two people. The taxi rank is very well signposted at the exit of both terminals T1 and T2. Taxis are numerous and the queue is very well organised as almost always in Barcelona.</p>
+<p>Taking a taxi to the centre of Barcelona from the airport is the
+easiest and quickest solution. It is not excessively expensive as long
+as you are at least two people. The taxi rank is very well signposted at
+the exit of both terminals T1 and T2. Taxis are numerous and the queue
+is very well organised as almost always in Barcelona.</p>
 <p>You should know:</p>
-<p>That the taxis are easily recognisable because they are two-coloured (black and yellow). That there is no fixed price to go from the airport to the centre of Barcelona as there is in some countries. That the minimum fare for a taxi service from the airport is €20 (including all additional costs such as airport entry and exit taxes, which are €3.10). This means that your journey will cost you at least €20 even if you are going to an address close to the airport, but ~€50 to the city center. That the night fare starts at 20:00 and ends at 8:00.</p>
+<p>That the taxis are easily recognisable because they are two-coloured
+(black and yellow). That there is no fixed price to go from the airport
+to the centre of Barcelona as there is in some countries. That the
+minimum fare for a taxi service from the airport is €20 (including all
+additional costs such as airport entry and exit taxes, which are €3.10).
+This means that your journey will cost you at least €20 even if you are
+going to an address close to the airport, but ~€50 to the city center.
+That the night fare starts at 20:00 and ends at 8:00.</p>
 <p><br> <br> <br></p>
 <h2>
 GETTING TO CAN BALASC FROM BARCELONA
 </h2>
-<div id="htmlwidget-21fc0a30c90f525c3a2d" style="width:100%;height:480px;" class="leaflet html-widget"></div>
-<script type="application/json" data-for="htmlwidget-21fc0a30c90f525c3a2d">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["//{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"http://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"http://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[41.43,2.078,"Here is <b>Can Balasc<\/b>",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""}]}],"setView":[[41.43,2.078],12,[]],"limits":{"lat":[41.43,41.43],"lng":[2.078,2.078]}},"evals":[],"jsHooks":[]}</script>
-<p>To get to Can Balasc, you might use <a href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils de la Generalitat de Catalunya</a> (FGC, Barcelona – Vallés Line) and get off at LES PLANES station (attention!!, not all trains stop at LES PLANES). To make things easier, one of the members of the organising committe will meet you outside the hotel at 8:00. You will all go together. We will be waiting for you at LES PLANES station from 8:25 to 8:45, and we will take you by car to Can Balasc.</p>
+<div id="htmlwidget-71673af7983580394db2" style="width:100%;height:480px;" class="leaflet html-widget"></div>
+<script type="application/json" data-for="htmlwidget-71673af7983580394db2">{"x":{"options":{"crs":{"crsClass":"L.CRS.EPSG3857","code":null,"proj4def":null,"projectedBounds":null,"options":{}}},"calls":[{"method":"addTiles","args":["https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png",null,null,{"minZoom":0,"maxZoom":18,"tileSize":256,"subdomains":"abc","errorTileUrl":"","tms":false,"noWrap":false,"zoomOffset":0,"zoomReverse":false,"opacity":1,"zIndex":1,"detectRetina":false,"attribution":"&copy; <a href=\"https://openstreetmap.org\">OpenStreetMap<\/a> contributors, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/\">CC-BY-SA<\/a>"}]},{"method":"addPopups","args":[41.43,2.078,"Here is <b>Can Balasc<\/b>",null,null,{"maxWidth":300,"minWidth":50,"autoPan":true,"keepInView":false,"closeButton":true,"className":""}]}],"setView":[[41.43,2.078],12,[]],"limits":{"lat":[41.43,41.43],"lng":[2.078,2.078]}},"evals":[],"jsHooks":[]}</script>
+<p>To get to Can Balasc, you might use <a
+href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils
+de la Generalitat de Catalunya</a> (FGC, Barcelona – Vallés Line) and
+get off at LES PLANES station (attention!!, not all trains stop at LES
+PLANES). To make things easier, one of the members of the organising
+committe will meet you outside the hotel at 8:00. You will all go
+together. We will be waiting for you at LES PLANES station from 8:25 to
+8:45, and we will take you by car to Can Balasc.</p>
 <p><br> <br> <br></p>
 <h2>
 GETTING TO CREAF FROM BARCELONA
 </h2>
-<p>Arriving by public transportation It is possible to arrive to CREAF on public transportation by using:</p>
+<p>Arriving by public transportation It is possible to arrive to CREAF
+on public transportation by using:</p>
 <ul>
-<li><p>Rodalies RENFE station stop <strong>Cerdanyola Universitat</strong></p></li>
-<li><p>Ferrocarrils de la Generalitat station stop <strong>Universitat Autònoma</strong></p></li>
+<li><p>Rodalies RENFE station stop <strong>Cerdanyola
+Universitat</strong></p></li>
+<li><p>Ferrocarrils de la Generalitat station stop <strong>Universitat
+Autònoma</strong></p></li>
 </ul>
 <p>Here we explain these options in more detail:</p>
 <h3>
 Using RENFE Rodalies
 </h3>
-<p>The train station «Cerdanyola Universitat» is served by Rodalies trains on the C7 line {Barcelona — Martorell}. At the train station «Cerdanyola del Vallès» it is also possible to transfer from a train on the C4 line {Barcelona — Sabadell|Terrasa|Manresa} to a train on the C7 line. For more information about ticket fares and timetables please consult the website of RENFE-Rodalies.</p>
+<p>The train station «Cerdanyola Universitat» is served by Rodalies
+trains on the C7 line {Barcelona — Martorell}. At the train station
+«Cerdanyola del Vallès» it is also possible to transfer from a train on
+the C4 line {Barcelona — Sabadell|Terrasa|Manresa} to a train on the C7
+line. For more information about ticket fares and timetables please
+consult the website of RENFE-Rodalies.</p>
 <p><img src="images/mapa_renfe_cat.png" width="50%" style="display: block; margin: auto;" /></p>
-<p>The train station is outside the UAB. There you will find (only on weekdays) free buses from the blue line at UAB.</p>
-<p>The nearest bus stop is located CREAF just after the fire station roundabout.</p>
+<p>The train station is outside the UAB. There you will find (only on
+weekdays) free buses from the blue line at UAB.</p>
+<p>The nearest bus stop is located CREAF just after the fire station
+roundabout.</p>
 <h3>
 Using Ferrocarrils de la Generalitat
 </h3>
-<p>At the station «Universitat Autònoma» Trains from FGC lines S2 {Barcelona - Sabadell} and {S55 Barcelona - Universitat Autònoma}. In Sant Cugat station can be transfer from the S1 {Barcelona - Terrassa} lines S2 and S55. For more information on prices and timetables please visit the website of <a href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils de la Generalitat de Catalunya</a>.</p>
-<p>The station is within the grounds of the UAB. Once outside the station to cross the Civic Square and walk the pavement in the direction of the Campus Faculty.</p>
+<p>At the station «Universitat Autònoma» Trains from FGC lines S2
+{Barcelona - Sabadell} and {S55 Barcelona - Universitat Autònoma}. In
+Sant Cugat station can be transfer from the S1 {Barcelona - Terrassa}
+lines S2 and S55. For more information on prices and timetables please
+visit the website of <a
+href="https://www.fgc.cat/en/fgc-network/l-barcelona-valles/">Ferrocarrils
+de la Generalitat de Catalunya</a>.</p>
+<p>The station is within the grounds of the UAB. Once outside the
+station to cross the Civic Square and walk the pavement in the direction
+of the Campus Faculty.</p>
 <p><img src="images/fgc-creaf.jpg" width="100%" style="display: block; margin: auto;" /></p>
 <p><br> <br></p>
 <div class="footer text-muted bg-info">
 <p>
-FES workshop organising committee<br> <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
+FES workshop organising committee<br>
+<a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
 </p>
 <p><img src="images/CREAF%20SO%20-%20logo%20pluma_blanca%20ENG_ministerio.png" alt="" height = "50"></p>
 </div>

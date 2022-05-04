@@ -13,7 +13,7 @@
 
 <title>Schedule</title>
 
-<script src="site_libs/header-attrs-2.11/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -66,6 +66,7 @@ if (window.hljs) {
 
 
 
+
 <style type = "text/css">
 .main-container {
   max-width: 940px;
@@ -86,6 +87,9 @@ button.code-folding-btn:focus {
 }
 summary {
   display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
 }
 pre code {
   padding: 0;
@@ -311,7 +315,7 @@ div.tocify {
 <div class="navbar navbar-default  navbar-fixed-top" role="navigation">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
@@ -334,7 +338,7 @@ div.tocify {
   <a href="suggested.html">Suggested readings</a>
 </li>
 <li class="dropdown">
-  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">
+  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
     Details
      
     <span class="caret"></span>
@@ -421,8 +425,10 @@ $(function() {
 </script>
 <div id="schedule" class="section level2">
 <h2>SCHEDULE</h2>
-<p><a href="./schedule/index.html" target="_blank">FES WORKSHOP SCHEDULE</a></p>
-<p>Talks should be about 10-15 minutes long, after which will be time for discussion.</p>
+<p><a href="./schedule/index.html" target="_blank">FES WORKSHOP
+SCHEDULE</a></p>
+<p>Talks should be about 10-15 minutes long, after which will be time
+for discussion.</p>
 <p><br> <br> <br></p>
 </div>
 <div id="talks" class="section level2">
@@ -431,12 +437,14 @@ $(function() {
 Jose V. Roce-Diaz - (S0)
 </p>
 <p>
-Jordi Martinez-Vilalta - general aspects about forest ecological functioning and ES delivery. The case of Mediterranean forests (S0)
+Jordi Martinez-Vilalta - general aspects about forest ecological
+functioning and ES delivery. The case of Mediterranean forests (S0)
 </p>
 <p><br> <br> <br></p>
 <div class="footer text-muted bg-info">
 <p>
-FES workshop organising committee<br> <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
+FES workshop organising committee<br>
+<a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a>
 </p>
 <p><img src="images/CREAF%20SO%20-%20logo%20pluma_blanca%20ENG_ministerio.png" alt="" height = "50"></p>
 </div>
