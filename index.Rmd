@@ -61,7 +61,7 @@ $(function() {
 <h3>CAN BALASC - BARCELONA</h3>
 <br>
 <br>
-<p style= "font-size:calc(14px + 1.5vw)">Why, Where, When, What and How to compare ecosystem services</p>
+<p style= "font-size:calc(14px + 1.5vw)">Why, What, Where, When and How to compare ecosystem services</p>
 </center>
 <br>
 
