@@ -74,8 +74,8 @@ Talks should be about 10-15 minutes long, after which will be time for discussio
 
 ## TALKS
 
-<p>Jose V. Roce-Diaz - (S0)</p>
-<p>Jordi Martinez-Vilalta - general aspects about forest ecological functioning and ES delivery. The case of Mediterranean forests (S0)</p>
+<p>Jose V. Roce-Diaz - (S1)</p>
+<p>Jordi Martinez-Vilalta - general aspects about forest ecological functioning and ES delivery. The case of Mediterranean forests (S1)</p>
 
 To be completed ...
 <br>
