@@ -75,6 +75,6 @@ Guests can easily enjoy this cosmopolitan city as Hotel Catalonia La Pedrera is 
 
 ::: {.footer .text-muted .bg-info}
  <p>FES workshop organising committee<br>
- <a href="mailto:FES@creaf.uab.cat">FES@creaf.uab.cat</a></p>
+ <a href="mailto:fes@creaf.uab.cat">fes@creaf.uab.cat</a></p>
  <img src="images/CREAF SO - logo pluma_blanca ENG_ministerio.png" alt="" height = "50">
 :::
