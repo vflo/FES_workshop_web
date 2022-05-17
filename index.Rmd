@@ -77,23 +77,23 @@ text-align: left}
 <br>
 
 <h2>OVERVIEW</h2>
-<p style="text-align:justify;">Most biosphere’s ecosystems provide goods and services that are key to human well-being. Referred as ecosystem Services (ES), their provisions vary depending on their geographical and biophysical context the anthropogenic management and the history of disturbances they have suffered. Ecosystem services have been frequently quantified as absolute physical magnitudes or as monetary values. These absolute values, however, may not always be the best approximation for comparing ES provided by different ecosystems or under different historical or socio-ecological contexts. For instance, woodlands located in very arid areas may show lower annual carbon sequestration rates than forests in more humid areas, although the former may be closer to their maximum sequestration capacity than the latter. Therefore, higher absolute values do not necessarily mean that a specific ecosystem is more valuable in context-dependent terms. For this reason, it is key to consider historical (e.g., ES provision evolution), ecological, geographical (e.g., ES provision by spatially related ecosystems) and social (e.g., society ES demand) contexts for an adequate comparison between ES.</p>
+<p style="text-align:justify;">Most biosphere’s ecosystems provide goods and services that are key to human well-being. Referred as ecosystem Services (ES) or more broadly Nature’s Contributions to People (NCP), their provisions vary depending on their geographical and biophysical context, the anthropogenic management and the history of previous disturbances. Ecosystem services have been frequently quantified as absolute physical magnitudes or as monetary values. These absolute values, however, may not always be the best approximation for comparing a certain ES provided by different ecosystems or under different historical or socio-ecological contexts. For instance, woodlands located in very arid areas may show lower annual carbon sequestration rates than forests in more humid areas, although the former may be closer to their maximum sequestration physical boundaries than the latter. Therefore, higher absolute values do not necessarily mean that a specific ecosystem is more valuable in context-dependent terms. For this reason, it is key to consider historical (e.g., ES past and future provision evolution), ecological, geographical (e.g., ES provision by spatially related ecosystems) and social (e.g., society ES demand) contexts for an adequate comparison of ES in different areas.</p>
 
-<p style="text-align:justify;">This workshop aims to identify when context dependency is relevant to measure ES and the different types of contexts (i.e., geographic -e.g., spatial scale-, temporal, social -e.g., society impact and demand-, etc.) that exist for comparing ES. With the goal of simplifying the discussions about the topic, we will use forest ecosystem services (FES) as a case of study.</p>
+<p style="text-align:justify;">This workshop aims to identify when context dependency is relevant to measure ES and the different types of contexts that may exist for comparing ES (i.e., geographic -e.g., spatial scale-, temporal, social -e.g., society impact and demand-, etc.). In order to simplify the discussions about the topic, we will use forest ecosystem services (FES) as a case of study. In addition, to better address this framework, the workshop will be structured following a series of general conceptual questions, mainly focused in why should we or how can we compare FES.</p>
 <br>
 <br>
 
 <h2>QUESTIONS</h2>
 
-<b>WHY</b>  
+<b>Why should we compare FES?</b> To highlight the main reasons for (or against) the comparisons on the delivery of ES. We will identify relevant cases where comparing ES should be (or not) recommended. Including, among others: research aims, management purposes, conservation priorities, etc. Here we will include general aspects such as the need to assess multiple values, but also the importance of developing detailed assessments of the health of these ecosystems for human well being.
 
-<b>WHERE</b> 
+<b>How can/should we compare FES?</b> The objective is to establish the foundations for a framework of new metrics based on ES indicators that will enable us to compare a set of different ES among different social, spatial and temporal contexts. Specifically, we will discuss about:
 
-<b>WHEN</b>  
+* <b>What:</b> To identify and enumerate which FES and which of their components are sensitive to vary across contexts: ecological/potential supply, etc. Also, we will review the most frequently used indicators and proxies to quantify ES and those which can be applied to forests. ES relationships (i.e. synergies or trade-offs, bundles), or comparisons for single ES vs. multidimensionality/trade-offs and their relevance can be also discussed here . Finally, we will describe potential methodologies to transform or normalise ES values to make them comparable. Thus, we will review currently existing methods to compare ES and will develop new approaches to standardise ES depending on ES types and discussed contexts. 
 
-<b>WHAT</b> 
+* <b>Where:</b> To deal with the socio-ecological context. Forests provide a wide range of benefits to the people. However, these benefits are dependent on the socio/geographical/spatial context. Thus,  to determine different levels of variation relevant for the comparison of ES is key. We will assess spatial ES variation from macro-scale (ie. biogeographical context and over-country level) to local scale (landscape heterogeneity and city administrative demarcations).
 
-<b>HOW </b> 
+* <b>When:</b> To deal with the temporal context. To identify the role of the temporal trends and resolution in ES comparison. ES delivery is not constant and these benefits may show temporal changes. Thus, we will determine the different mesurables periods and the type of data sources that can be useful to perform comparisons of ES taking into account the temporal scale. 
 
 
 <br>
@@ -102,11 +102,37 @@ text-align: left}
 <h2>LIST OF ATTENDEES</h2>
 
 <h3>Workshop Participants:</h3>
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/jordi.jpg")
+```
+<p><b>Jordi Martinez-Vilalta (JMV)</b>, CREAF/UAB, Spain ([0000-0002-2332-7298](https://orcid.org/%200000-0002-2332-7298))</p>
+I am full professor of ecology at the Autonomous University of Barcelona (UAB) and researcher at CREAF (Spain). I have been an honorary researcher at the University of Edinburgh (UK), and obtained an ICREA Academy distinction in 2014 and 2020. My research aims to improve our understanding of the functioning of forest systems and focuses on the study of: 1) the use and long-distance transport of water and carbon in plants; 2) the response of forests to environmental change, emphasising the impact of drought in the context of climate change; and 3) the distribution and variability of plant functional traits and their use for understanding and predicting vegetation function and dynamics, including the provision of ecosystem services.
 
-<p>Jordi Martinez-Vilalta (MM), CREAF/UAB, Spain</p>
-<p>Francisco Lloret (FLL), CREAF/UAB, Spain</p>
-<p>Josep M. Espelta (JE), CREAF, Spain</p>
-<p>Javier Retana (JR), CREAF/UAB, Spain</p>
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/paco.jpg")
+```
+<p><b>Francisco Lloret (FLL)</b>, CREAF/UAB, Spain ([0000-0002-9836-4069](https://orcid.org/%200000-0002-9836-4069))</p>
+I am Ecology Professor at the Autonomous University of Barcelona (UAB, Spain) and researcher at the CREAF (Centre for Ecological Research and Forestry Applications, Spain). My research has focused on the study of the structure, functioning and dynamics of plant communities, and in particular Mediterranean ecosystems, in relation to different sources of anthropogenic disturbance, such as fire, droughts, pests, and invasions by exotic species. I address the mechanisms providing resilience in the face of the regime of climate change-driven disturbances, considering the functional and demographic attributes and the climatic niche of the species and its contribution to the assembly of these communities.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/tete.jpeg")
+```
+<p><b>Josep M. Espelta (JE)</b>, CREAF, Spain ([0000-0002-0242-4988](https://orcid.org/%200000-0002-0242-4988))</p>
+PhD in Biological Sciences (UAB, 1992). My main research interests focus on the interaction among land use and forest management changes, particularly forest expansion and regrowth after rural abandonment, and the impact of climate change. My aim is to investigate the influence of land use legacies in forest dynamics and whether recent forests are more or less resilient to climate change than long-existing ones. Under this uncertain ecological scenario, I am interested in the factors driving tree growth and their sensitivity to climate, the variability of seed production, the balance among positive and negative plant-animal interactions (seed predation or dispersal) and, finally, the determinants of tree recruitment. 
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Javi.jpg")
+```
+<p><b>Javier Retana (JR)</b>, CREAF/UAB, Spain ([0000-0002-7505-9467](https://orcid.org/%200000-0002-7505-9467))</p>
+I am Professor of Ecology at the Autonomous University of Barcelona and researcher at CREAF, where I was director from 2005 to 2019. My research is based on the study of forest dynamics and the effect of disturbances, especially fire, on animal and plant communities and ecosystem services. I am currently the coordinator of the European LIFE MIDMACC project on the adaptation of Mediterranean mountains to climate change, and the national GREEN-RISK project on the limitations of integrated modelling at landscape and regional scales and the development of a procedure for future assessments of changes in biodiversity and ecosystem services.
+
+<br>
 
 To be completed ...
 
@@ -114,12 +140,23 @@ To be completed ...
 <br>
 
 <h3>Organising committee:</h3>
-<p>Jose V. Roces-Diaz (JR), UNIOVI</p>
-<p>Judit Lecina (JL), TUM</p>
-<p>Maria Angeles Perez-Navarro (MAPN), KCL</p>
-<p>Luciana Jaime (LJ), CREAF</p>
-<p>Albert Vila (AV), CREAF/Univ Sirling</p>
-<p>Victor Flo (VF), ICL/UAB</p>
+<p><b>Jose Valentin Roces-Diaz (JR)</b>, ([0000-0003-2569-8049](https://orcid.org/ 0000-0003-2569-8049))</p>
+I studied Forestry and Environmental Engineering (Santiago de Compostela 2009) and obtained a PhD in Natural Resources and Biodiversity (2015, University of Oviedo). Currently I am assistant professor in forest planning and natural resources management at the University of Oviedo and previously, I have worked as postdoctoral researcher at Agroscope (Switzerland) CREAF or at Swansea University (UK). My main expertise focuses on: i) studying forests and forested landscapes, analysing the goods and services they provide to the society; and ii) integrating this information on regional planning for sustainable management. 
+
+<p><b>Judit Lecina (JL)</b>, ([0000-0002-6867-5886](https://orcid.org/ 0000-0002-6867-5886))</p>
+I am an Environmental Scientist (University of Barcelona, 2011) and PhD in Terrestrial Ecology (University Autonomous of Barcelona, 2020). My main research interests are related to forest disturbance dynamics and ecosystem services. I’m currently an Alexander von Humboldt postdoctoral fellow at the Technical University of Munich, assessing the risk of losing forest ecosystem services due to disturbances. Previously, I was a postdoctoral fellow at CIBIO/InBIO (Portugal) analyzing the stakeholders’ perceptions of wildfires and the economic impacts of fire-management scenarios in ecosystem services, and a predoctoral fellow at CREAF analyzing the spatial patterns of forest ecosystem services, their conservation implications and their risk to climate change-hazards.
+
+<p><b>Maria Angeles Perez-Navarro (MAPN)</b>, ([0000-0001-5553-995X](https://orcid.org/ 0000-0001-5553-995X))</p>
+I am a biologist (University of Murcia, 2014) and PhD in Terrestrial Ecology (University Autonomous of Barcelona, 2020). I’m currently working as a Post-doc research associate at King’s College University in London, analysing the role of functional and demographic traits in invasive species success. My research interests are analysing changes in species distribution with global change, disentangling the role of species niche on population and community responses to disturbances and assessing the impact on management policies on those responses.
+
+<p><b>Luciana Jaime (LJ)</b>, ([0000-0002-2452-6790](https://orcid.org/ 0000-0002-2452-6790))</p>
+I studied Biology at the Complutense University of Madrid (UCM, 2013) and obtained a PhD in Terrestrial Ecology at the Autonomous University of Barcelona (UAB, 2021). Currently, I have a postdoctoral position at the Centre for Ecological Research and Forestry Applications (CREAF, Spain). My main research lines focus on (1) assessing forest decay and mortality caused by insect pests in a context of climate change from an insect-host tree perspective, and (2) analyzing resilience metrics and indicators of ecological and socio-economical systems  for supporting decision-making and management actions. 
+
+<p><b>Albert Vila (AV)</b>,  ([0000-0001-7589-7797](https://orcid.org/ 0000-0001-7589-7797))</p>
+I am PhD in Terrestrial Ecology (UAB 2012). I am currently Juan de la Cierva Fellow at CREAF and Honorary Lecturer at University of Stirling. My research focuses on understanding the factors that regulate forest demographics, functional biogeography, diversity, and functioning to global environmental change, and the integration of this information for management and conservation purposes. I address key questions at the intersection between ecology and biogeography, including theoretical and empirical development. I have primary focused on drought-stressed forests, either by distributional constraints (rear edge populations, and Mediterranean-type vegetation) or climate change-type drought, by combining large-scale field experiments and analysis of large datasets.
+
+<p><b>Victor Flo (VF)</b>, ([0000-0003-1908-4577](https://orcid.org/ 0000-0003-1908-4577))</p>
+I am a Biosystems Engineer (Polytechnic University of Catalonia ,  2013) and obtained a PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). I am currently a Postdoctoral researcher at the Imperial College of London. My research focuses on Land-Surface modelling, particularly on hydrological processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
 
 <br>
 <br>
