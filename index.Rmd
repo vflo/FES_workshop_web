@@ -61,7 +61,7 @@ $(function() {
 <h3>CAN BALASC - BARCELONA</h3>
 <br>
 <br>
-<p style= "font-size:calc(14px + 1.5vw)">Why, What, Where, When and How to compare ecosystem services</p>
+<p style= "font-size:calc(14px + 1.5vw)">Comparisons between forest ecosystem services: why and how?</p>
 </center>
 <br>
 
@@ -85,23 +85,24 @@ text-align: left}
 
 <h2>QUESTIONS</h2>
 
-<b>Why should we compare FES?</b> To highlight the main reasons for (or against) the comparisons on the delivery of ES. We will identify relevant cases where comparing ES should be (or not) recommended. Including, among others: research aims, management purposes, conservation priorities, etc. Here we will include general aspects such as the need to assess multiple values, but also the importance of developing detailed assessments of the health of these ecosystems for human well being.
+<b>Why should we compare FES?</b> To highlight i) the main drivers explaining FES supply, and ii) the main reasons for (or against) the comparisons on the delivery of ES. For example, we will identify relevant cases where comparing ES should be (or not) recommended, including, among others: research aims, management purposes, conservation priorities, etc. Here we will include additional aspects such as the need to assess multiple values which can be dependent on the spatial and temporal scales, but also the importance of developing detailed assessments of the health of these ecosystems for human well being .
 
 <b>How can/should we compare FES?</b> The objective is to establish the foundations for a framework of new metrics based on ES indicators that will enable us to compare a set of different ES among different social, spatial and temporal contexts. Specifically, we will discuss about:
 
-* <b>What:</b> To identify and enumerate which FES and which of their components are sensitive to vary across contexts: ecological/potential supply, etc. Also, we will review the most frequently used indicators and proxies to quantify ES and those which can be applied to forests. ES relationships (i.e. synergies or trade-offs, bundles), or comparisons for single ES vs. multidimensionality/trade-offs and their relevance can be also discussed here . Finally, we will describe potential methodologies to transform or normalise ES values to make them comparable. Thus, we will review currently existing methods to compare ES and will develop new approaches to standardise ES depending on ES types and discussed contexts. 
+* <b>Dealing with FES indicators and FES components</b> To identify and enumerate which FES and which of their components (ecological/potential supply, demand, etc.) are sensitive to vary across contexts. Also, we will review the most frequently used indicators and proxies to quantify ES and those which can be applied to forests. 
 
-* <b>Where:</b> To deal with the socio-ecological context. Forests provide a wide range of benefits to the people. However, these benefits are dependent on the socio/geographical/spatial context. Thus,  to determine different levels of variation relevant for the comparison of ES is key. We will assess spatial ES variation from macro-scale (ie. biogeographical context and over-country level) to local scale (landscape heterogeneity and city administrative demarcations).
+* <b>Dealing with the socio-ecological context.</b> The benefits we obtain from the forests are multiple and include a wide variety of FES. However, different social groups perceive, for example,  different types of FES. For this reason it seems key to assess multiple values of forests with respect to different societies characteristics and demands. Thus, here we will discuss how we can characterise the different socio-ecological systems, or why this key for assessing accurately FES.
 
-* <b>When:</b> To deal with the temporal context. To identify the role of the temporal trends and resolution in ES comparison. ES delivery is not constant and these benefits may show temporal changes. Thus, we will determine the different mesurables periods and the type of data sources that can be useful to perform comparisons of ES taking into account the temporal scale. 
+* <b>Dealing with the spatial and the temporal contexts.</b> ES delivery is not constant and their benefits may show spatial and temporal changes. Thus, to determine different levels of variation relevant for the comparison of ES is key. Here, we will determine the different mesurables periods and spatial scales and the type of data sources that can be useful to perform comparisons of ES taking into account the spatial and temporal scales. Particularly, we will assess spatial ES variation from macro-scale (ie. biogeographical context and over-country level) to local scale (landscape heterogeneity and city administrative demarcations). Also, we will identify the role of the temporal context (temporal trends and resolution) in ES comparison. 
 
+* <b>Dealing with relationships among FES and with standardization issues.</b>ES relationships (i.e. synergies or trade-offs, bundles, …), or comparisons for single ES vs. multidimensionality/trade-offs are also key when dealing with ES comparisons. Finally, we will describe potential methodologies to transform or normalise ES values to make them comparable. Thus, we will review currently existing methods to compare ES and will develop new approaches to standardise ES depending on ES types and discussed contexts. 
 
 <br>
 <br>
 
 <h2>LIST OF ATTENDEES</h2>
 
-<h3>Workshop Participants:</h3>
+<h3>Confirmed Workshop Participants:</h3>
 ```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics(dpi = 150, path = "images/jordi.jpg")
 ```
@@ -134,14 +135,12 @@ I am Professor of Ecology at the Autonomous University of Barcelona and research
 
 <br>
 
-To be completed ...
-
 <br>
 <br>
 
 <h3>Organising committee:</h3>
 <p><b>Jose Valentin Roces-Diaz (JR)</b>, ([0000-0003-2569-8049](https://orcid.org/ 0000-0003-2569-8049))</p>
-I studied Forestry and Environmental Engineering (Santiago de Compostela 2009) and obtained a PhD in Natural Resources and Biodiversity (2015, University of Oviedo). Currently I am assistant professor in forest planning and natural resources management at the University of Oviedo and previously, I have worked as postdoctoral researcher at Agroscope (Switzerland) CREAF or at Swansea University (UK). My main expertise focuses on: i) studying forests and forested landscapes, analysing the goods and services they provide to the society; and ii) integrating this information on regional planning for sustainable management. 
+I studied Forestry and Environmental Engineering (Santiago de Compostela 2009) and obtained a PhD in Natural Resources and Biodiversity (2015, University of Oviedo). Currently I am assistant professor in forest planning and natural resources management at the University of Oviedo and previously, I have worked as postdoctoral researcher at Agroscope (Switzerland) CREAF and at Swansea University (UK). My main expertise focuses on: i) studying forests and forested landscapes, analysing the goods and services they provide to the society; and ii) integrating this information on regional planning for sustainable management. 
 
 <p><b>Judit Lecina (JL)</b>, ([0000-0002-6867-5886](https://orcid.org/ 0000-0002-6867-5886))</p>
 I am an Environmental Scientist (University of Barcelona, 2011) and PhD in Terrestrial Ecology (University Autonomous of Barcelona, 2020). My main research interests are related to forest disturbance dynamics and ecosystem services. I’m currently an Alexander von Humboldt postdoctoral fellow at the Technical University of Munich, assessing the risk of losing forest ecosystem services due to disturbances. Previously, I was a postdoctoral fellow at CIBIO/InBIO (Portugal) analyzing the stakeholders’ perceptions of wildfires and the economic impacts of fire-management scenarios in ecosystem services, and a predoctoral fellow at CREAF analyzing the spatial patterns of forest ecosystem services, their conservation implications and their risk to climate change-hazards.
@@ -156,7 +155,7 @@ I studied Biology at the Complutense University of Madrid (UCM, 2013) and obtain
 I am PhD in Terrestrial Ecology (UAB 2012). I am currently Juan de la Cierva Fellow at CREAF and Honorary Lecturer at University of Stirling. My research focuses on understanding the factors that regulate forest demographics, functional biogeography, diversity, and functioning to global environmental change, and the integration of this information for management and conservation purposes. I address key questions at the intersection between ecology and biogeography, including theoretical and empirical development. I have primary focused on drought-stressed forests, either by distributional constraints (rear edge populations, and Mediterranean-type vegetation) or climate change-type drought, by combining large-scale field experiments and analysis of large datasets.
 
 <p><b>Victor Flo (VF)</b>, ([0000-0003-1908-4577](https://orcid.org/ 0000-0003-1908-4577))</p>
-I am a Biosystems Engineer (Polytechnic University of Catalonia ,  2013) and obtained a PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). I am currently a Postdoctoral researcher at the Imperial College of London. My research focuses on Land-Surface modelling, particularly on hydrological processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
+I am a Biosystems Engineer (Polytechnic University of Catalonia,  2013) and obtained a PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). I am currently a Postdoctoral researcher at the Imperial College of London. My research focuses on Land-Surface modelling, particularly on hydrological processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
 
 <br>
 <br>
