@@ -134,28 +134,62 @@ knitr::include_graphics(dpi = 150, path = "images/Javi.jpg")
 I am Professor of Ecology at the Autonomous University of Barcelona and researcher at CREAF, where I was director from 2005 to 2019. My research is based on the study of forest dynamics and the effect of disturbances, especially fire, on animal and plant communities and ecosystem services. I am currently the coordinator of the European LIFE MIDMACC project on the adaptation of Mediterranean mountains to climate change, and the national GREEN-RISK project on the limitations of integrated modelling at landscape and regional scales and the development of a procedure for future assessments of changes in biodiversity and ecosystem services.
 
 <br>
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Klara_cut.jpg")
+```
+<p><b>Klara Winkler (KQ)</b>, McGill University, Canada ([0000-0001-7086-5585](https://orcid.org/0000-0001-7086-5585))</p>
+I am is a sustainability scientist interested in human-nature relationships and processes of sustainable transformation. I use a governance perspective to research these phenomena on multiple levels of social-ecological systems – from local to supranational. With my research, I aim to better understand how actions of individuals fit into the broader network of societal activities and how they relate to and affect each other. Currently, I am the Deputy Science Director of the Canadian NSERC Strategic Network ResNet - a Canada wide research project looking at human-nature interactions in Canadian working landscapes. 
+
+<br>
+
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Becks_Spake.png")
+```
+<p><b>Becks Spake (RS)</b>, University of Reading, UK ([0000-0003-4671-2225](https://orcid.org/%200000-0003-4671-2225))</p>
+I am a Lecturer in Ecology at the University of Reading, UK. Broadly, my research tries to identify how conservation, management and restoration actions can be spatially targeted to enhance biodiversity and ecosystem services, principally in forests. I am interested in developing analytical approaches for synthesising heterogeneous datasets for quantifying how management effects on biodiversity and forest health (susceptibility to pests and diseases), vary across different social-ecological contexts. I am also interested in the effects of large herbivores on forest landscapes and the importance of human-nature interactions for mental health.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/felix_cut.jpg")
+```
+<p><b>Felix Eigenbrod (FE)</b>, University of Southampton, UK ([0000-0001-8982-824X](https://orcid.org/0000-0001-8982-824X))</p>
+I am interested in understanding how people can better manage our landscapes sustainability to deliver the things we need now (food, low carbon energy, clean water) while also maintaining the biodiversity that ultimately sustains us all. I have a particular focus on understanding trade-offs, as we live in an age where there are no perfect choices - everything has an impact - but some things have less negative impacts than others (i.e. renewable energy as compared to fossil fuels).   My work is highly applied, and targets questions such as where do we focus tree planting in the UK or what are the relative effects of public and private greenspace on mental health. I mostly working with existing 'big data' , and have a strong focus on methods development, and questions of spatial scale, and frequently link computer and statistical models in new ways. 
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/alessandra.jpg")
+```
+<p><b>Alessandra La Notte (ALN)</b>, Joint Research Centre of the European Commission, Italy ([0000-0001-6951-709X](https://orcid.org/0000-0001-6951-709X))</p>
+I hold a PhD in Environmental Economics from the University of Trento (Italy) and a Master Degree in Environmental Management and Development from the Australian National University (Canberra, Australia). I am specialized in environmental and ecosystem accounting and in economic valuation of ecosystem services. In my current position as scientific officer at the Joint Research Centre of the European Commission, I work on the "Knowledge Innovation Project on Integrated Natural Capital Accounts” (KIP-INCA), which aims to design and implement satellite accounts for ecosystems and their services.
+
+<br>
 
 <br>
 <br>
 
 <h3>Organising committee:</h3>
-<p><b>Jose Valentin Roces-Diaz (JR)</b>, ([0000-0003-2569-8049](https://orcid.org/ 0000-0003-2569-8049))</p>
+<p><b>Jose Valentin Roces-Diaz (JR)</b>, Universidad de Oviedo, Spain ([0000-0003-2569-8049](https://orcid.org/ 0000-0003-2569-8049))</p>
 I studied Forestry and Environmental Engineering (Santiago de Compostela 2009) and obtained a PhD in Natural Resources and Biodiversity (2015, University of Oviedo). Currently I am assistant professor in forest planning and natural resources management at the University of Oviedo and previously, I have worked as postdoctoral researcher at Agroscope (Switzerland) CREAF and at Swansea University (UK). My main expertise focuses on: i) studying forests and forested landscapes, analysing the goods and services they provide to the society; and ii) integrating this information on regional planning for sustainable management. 
 
-<p><b>Judit Lecina (JL)</b>, ([0000-0002-6867-5886](https://orcid.org/ 0000-0002-6867-5886))</p>
+<p><b>Judit Lecina (JL)</b>, Technische Universität München, Germany ([0000-0002-6867-5886](https://orcid.org/ 0000-0002-6867-5886))</p>
 I am an Environmental Scientist (University of Barcelona, 2011) and PhD in Terrestrial Ecology (University Autonomous of Barcelona, 2020). My main research interests are related to forest disturbance dynamics and ecosystem services. I’m currently an Alexander von Humboldt postdoctoral fellow at the Technical University of Munich, assessing the risk of losing forest ecosystem services due to disturbances. Previously, I was a postdoctoral fellow at CIBIO/InBIO (Portugal) analyzing the stakeholders’ perceptions of wildfires and the economic impacts of fire-management scenarios in ecosystem services, and a predoctoral fellow at CREAF analyzing the spatial patterns of forest ecosystem services, their conservation implications and their risk to climate change-hazards.
 
-<p><b>Maria Angeles Perez-Navarro (MAPN)</b>, ([0000-0001-5553-995X](https://orcid.org/ 0000-0001-5553-995X))</p>
+<p><b>Maria Angeles Perez-Navarro (MAPN)</b>, King's College London, UK ([0000-0001-5553-995X](https://orcid.org/ 0000-0001-5553-995X))</p>
 I am a biologist (University of Murcia, 2014) and PhD in Terrestrial Ecology (University Autonomous of Barcelona, 2020). I’m currently working as a Post-doc research associate at King’s College University in London, analysing the role of functional and demographic traits in invasive species success. My research interests are analysing changes in species distribution with global change, disentangling the role of species niche on population and community responses to disturbances and assessing the impact on management policies on those responses.
 
-<p><b>Luciana Jaime (LJ)</b>, ([0000-0002-2452-6790](https://orcid.org/ 0000-0002-2452-6790))</p>
+<p><b>Luciana Jaime (LJ)</b>, CREAF/UAB, Spain ([0000-0002-2452-6790](https://orcid.org/ 0000-0002-2452-6790))</p>
 I studied Biology at the Complutense University of Madrid (UCM, 2013) and obtained a PhD in Terrestrial Ecology at the Autonomous University of Barcelona (UAB, 2021). Currently, I have a postdoctoral position at the Centre for Ecological Research and Forestry Applications (CREAF, Spain). My main research lines focus on (1) assessing forest decay and mortality caused by insect pests in a context of climate change from an insect-host tree perspective, and (2) analyzing resilience metrics and indicators of ecological and socio-economical systems  for supporting decision-making and management actions. 
 
-<p><b>Albert Vila (AV)</b>,  ([0000-0001-7589-7797](https://orcid.org/ 0000-0001-7589-7797))</p>
+<p><b>Albert Vilà (AV)</b>, CREAF/UAB, Spain ([0000-0001-7589-7797](https://orcid.org/ 0000-0001-7589-7797))</p>
 I am PhD in Terrestrial Ecology (UAB 2012). I am currently Juan de la Cierva Fellow at CREAF and Honorary Lecturer at University of Stirling. My research focuses on understanding the factors that regulate forest demographics, functional biogeography, diversity, and functioning to global environmental change, and the integration of this information for management and conservation purposes. I address key questions at the intersection between ecology and biogeography, including theoretical and empirical development. I have primary focused on drought-stressed forests, either by distributional constraints (rear edge populations, and Mediterranean-type vegetation) or climate change-type drought, by combining large-scale field experiments and analysis of large datasets.
 
-<p><b>Victor Flo (VF)</b>, ([0000-0003-1908-4577](https://orcid.org/ 0000-0003-1908-4577))</p>
-I am a Biosystems Engineer (Polytechnic University of Catalonia,  2013) and obtained a PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). I am currently a Postdoctoral researcher at the Imperial College of London. My research focuses on Land-Surface modelling, particularly on hydrological processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
+<p><b>Victor Flo (VF)</b>, Imperial College of London, UK  ([0000-0003-1908-4577](https://orcid.org/ 0000-0003-1908-4577))</p>
+I am a Biosystems Engineer (Polytechnic University of Catalonia,  2013) and PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). My research focuses on Land-Surface modelling, particularly on hydrological processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
 
 <br>
 <br>
