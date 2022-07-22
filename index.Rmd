@@ -57,7 +57,7 @@ $(function() {
 
 <center>
 <h2>**FES WORKSHOP**</h2>
-<h3>November 2022</h3>
+<h3>16th - 18th November 2022</h3>
 <h3>CAN BALASC - BARCELONA</h3>
 <br>
 <br>
