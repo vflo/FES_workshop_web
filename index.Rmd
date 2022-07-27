@@ -169,6 +169,24 @@ I hold a PhD in Environmental Economics from the University of Trento (Italy) an
 
 <br>
 
+
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/jean.jpg")
+```
+<p><b>Jean Paul Metzger (JPM)</b>, University of São Paulo, Brazil ([0000-0002-0087-5240](https://orcid.org/0000-0002-0087-5240))</p>
+Jean Paul Metzger is a Full Professor of Ecology at the University of São Paulo. He obtained his MSc and PhD in Landscape Ecology at the University of Toulouse, France. Since 1995, he has been working with landscape planning and biodiversity conservation in highly fragmented landscapes, essentially in the Brazilian Atlantic Forest region. His main research focuses are related to landscape connectivity, ecological thresholds and time-lag responses to landscape changes, and conservation planning. More recently, he is exploring the relationships between landscape structure, ecosystems services, and human well-being, besides investigating the efficiency of environmental policies to manage multifunctional landscapes. He also uses extensive modeling and scenario approaches to link landscape-level processes with restoration processes. He was the founder of the Brazilian Chapter of the International Association for Landscape Ecology (IALE-BR) and vice-president of IALE.  
+
+<br>
+
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/maria.jpg")
+```
+<p><b>María Felipe-Lucia (MFL)</b>, Helmholtz Centre for Environmental Research - UFZ/ German Center for Integrative Biodiversity Research (iDiv) Halle-Jena-Leipzig, Germany ([0000-0003-1915-8169](https://orcid.org/0000-0003-1915-8169))</p>
+My research seeks to understand the drivers and consequences of social-ecological interactions and its various implications on sustainability, mainly on ecosystem services flows and on equity in the access to those services. In particular, I investigate the effect of land use intensification on the relationships between biodiversity and ecosystem services, on the synergies and trade-offs between services, and on the social relationships between actors. I analyse these relationships at multiple spatial scales and model social-ecological scenarios to inform land management and restoration policies. 
+
+<br>
 <br>
 <br>
 
