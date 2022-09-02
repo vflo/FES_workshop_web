@@ -56,7 +56,7 @@ text-align: left}
 
 ## HOTEL INFORMATION
 
-<a href="https://www.cataloniahotels.com/en/hotel/catalonia-la-pedrera" target="_blank"><span style="font-size:calc(12px + 1vw)">Hotel Catalonia La Pedrera</span></a>
+<a href="https://www.cataloniahotels.com/en/hotel/catalonia-gracia" target="_blank"><span style="font-size:calc(12px + 1vw)">Hotel Catalonia Gracia</span></a>
 
 This hotel is located next to Avinguda Diagonal and Passeig de Gràcia, ideal for shopping. Guests can easily access Plaza Cataluña and the city’s historic gothic quarter. Free Wi-Fi is available.
 
