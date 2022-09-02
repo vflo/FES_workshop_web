@@ -103,38 +103,6 @@ text-align: left}
 <h2>LIST OF ATTENDEES</h2>
 
 <h3>Confirmed Workshop Participants:</h3>
-```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics(dpi = 150, path = "images/jordi.jpg")
-```
-<p><b>Jordi Martinez-Vilalta (JMV)</b>, CREAF/UAB, Spain ([0000-0002-2332-7298](https://orcid.org/%200000-0002-2332-7298))</p>
-I am full professor of ecology at the Autonomous University of Barcelona (UAB) and researcher at CREAF (Spain). I have been an honorary researcher at the University of Edinburgh (UK), and obtained an ICREA Academy distinction in 2014 and 2020. My research aims to improve our understanding of the functioning of forest systems and focuses on the study of: 1) the use and long-distance transport of water and carbon in plants; 2) the response of forests to environmental change, emphasising the impact of drought in the context of climate change; and 3) the distribution and variability of plant functional traits and their use for understanding and predicting vegetation function and dynamics, including the provision of ecosystem services.
-
-<br>
-
-```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics(dpi = 150, path = "images/paco.jpg")
-```
-<p><b>Francisco Lloret (FLL)</b>, CREAF/UAB, Spain ([0000-0002-9836-4069](https://orcid.org/%200000-0002-9836-4069))</p>
-I am Ecology Professor at the Autonomous University of Barcelona (UAB, Spain) and researcher at the CREAF (Centre for Ecological Research and Forestry Applications, Spain). My research has focused on the study of the structure, functioning and dynamics of plant communities, and in particular Mediterranean ecosystems, in relation to different sources of anthropogenic disturbance, such as fire, droughts, pests, and invasions by exotic species. I address the mechanisms providing resilience in the face of the regime of climate change-driven disturbances, considering the functional and demographic attributes and the climatic niche of the species and its contribution to the assembly of these communities.
-
-<br>
-
-```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics(dpi = 150, path = "images/tete.jpeg")
-```
-<p><b>Josep M. Espelta (JE)</b>, CREAF, Spain ([0000-0002-0242-4988](https://orcid.org/%200000-0002-0242-4988))</p>
-PhD in Biological Sciences (UAB, 1992). My main research interests focus on the interaction among land use and forest management changes, particularly forest expansion and regrowth after rural abandonment, and the impact of climate change. My aim is to investigate the influence of land use legacies in forest dynamics and whether recent forests are more or less resilient to climate change than long-existing ones. Under this uncertain ecological scenario, I am interested in the factors driving tree growth and their sensitivity to climate, the variability of seed production, the balance among positive and negative plant-animal interactions (seed predation or dispersal) and, finally, the determinants of tree recruitment. 
-
-<br>
-
-```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics(dpi = 150, path = "images/Javi.jpg")
-```
-<p><b>Javier Retana (JR)</b>, CREAF/UAB, Spain ([0000-0002-7505-9467](https://orcid.org/%200000-0002-7505-9467))</p>
-I am Professor of Ecology at the Autonomous University of Barcelona and researcher at CREAF, where I was director from 2005 to 2019. My research is based on the study of forest dynamics and the effect of disturbances, especially fire, on animal and plant communities and ecosystem services. I am currently the coordinator of the European LIFE MIDMACC project on the adaptation of Mediterranean mountains to climate change, and the national GREEN-RISK project on the limitations of integrated modelling at landscape and regional scales and the development of a procedure for future assessments of changes in biodiversity and ecosystem services.
-
-<br>
-<br>
 
 ```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
 knitr::include_graphics(dpi = 150, path = "images/Klara_cut.jpg")
@@ -187,8 +155,69 @@ knitr::include_graphics(dpi = 150, path = "images/maria.jpg")
 My research seeks to understand the drivers and consequences of social-ecological interactions and its various implications on sustainability, mainly on ecosystem services flows and on equity in the access to those services. In particular, I investigate the effect of land use intensification on the relationships between biodiversity and ecosystem services, on the synergies and trade-offs between services, and on the social relationships between actors. I analyse these relationships at multiple spatial scales and model social-ecological scenarios to inform land management and restoration policies. 
 
 <br>
+
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/ilse.jpg")
+```
+<p><b>Ilse Geijzendorffer (ILSE)</b>, Louis Bolk Institute, Netherlands ([0000-0002-8471-7695](https://orcid.org/0000-0002-8471-7695))</p>
+As a mathematical biologist (Wageningen University), I am interested in contributing to a more sustainable future. Since 2003 I have done scientific research in applied research centers in the Netherlands, Ireland and France. My focus area is human nature interactions, so ecosystem services, nature conservation and sustainable agriculture have been red threads in my research. Values of nature and ecosystem services determine how we shape our policies and management. I have been very fortunate to work with many highly qualified researchers around the world, among others in the GEO BON net werk. Currently I am the director of an independent research institute on sustainable agriculture food and health where we work on developing knowledge  towards more sustainable foodsystems and healthy societies, together with practitioners, NGOs, industry and policymakers.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Tord.jpg")
+```
+<p><b>Tord Snäll (TS)</b>, Swedish University of Agricultural Sciences, Sweden ([0000-0001-5856-5539](https://orcid.org/0000-0001-5856-5539))</p>
+I have three main research interests. One of my main interests is to increase our understanding and ability to predict the distribution or dynamics of (meta)populations, species, communities and ecosystem services. In addition, I investigate how these biodiversity measures and services can respond to future land use or climate change scenarios. Finally, I investigate the usefulness of citizen science data to answer basic and applied questions. Most of my studies concern the use and conservation of forest resources.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/jordi.jpg")
+```
+<p><b>Jordi Martinez-Vilalta (JMV)</b>, CREAF/UAB, Spain ([0000-0002-2332-7298](https://orcid.org/%200000-0002-2332-7298))</p>
+I am full professor of ecology at the Autonomous University of Barcelona (UAB) and researcher at CREAF (Spain). I have been an honorary researcher at the University of Edinburgh (UK), and obtained an ICREA Academy distinction in 2014 and 2020. My research aims to improve our understanding of the functioning of forest systems and focuses on the study of: 1) the use and long-distance transport of water and carbon in plants; 2) the response of forests to environmental change, emphasising the impact of drought in the context of climate change; and 3) the distribution and variability of plant functional traits and their use for understanding and predicting vegetation function and dynamics, including the provision of ecosystem services.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/paco.jpg")
+```
+<p><b>Francisco Lloret (FLL)</b>, CREAF/UAB, Spain ([0000-0002-9836-4069](https://orcid.org/%200000-0002-9836-4069))</p>
+I am Ecology Professor at the Autonomous University of Barcelona (UAB, Spain) and researcher at the CREAF (Centre for Ecological Research and Forestry Applications, Spain). My research has focused on the study of the structure, functioning and dynamics of plant communities, and in particular Mediterranean ecosystems, in relation to different sources of anthropogenic disturbance, such as fire, droughts, pests, and invasions by exotic species. I address the mechanisms providing resilience in the face of the regime of climate change-driven disturbances, considering the functional and demographic attributes and the climatic niche of the species and its contribution to the assembly of these communities.
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/tete.jpeg")
+```
+<p><b>Josep M. Espelta (JE)</b>, CREAF, Spain ([0000-0002-0242-4988](https://orcid.org/%200000-0002-0242-4988))</p>
+PhD in Biological Sciences (UAB, 1992). My main research interests focus on the interaction among land use and forest management changes, particularly forest expansion and regrowth after rural abandonment, and the impact of climate change. My aim is to investigate the influence of land use legacies in forest dynamics and whether recent forests are more or less resilient to climate change than long-existing ones. Under this uncertain ecological scenario, I am interested in the factors driving tree growth and their sensitivity to climate, the variability of seed production, the balance among positive and negative plant-animal interactions (seed predation or dispersal) and, finally, the determinants of tree recruitment. 
+
+<br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Javi.jpg")
+```
+<p><b>Javier Retana (JR)</b>, CREAF/UAB, Spain ([0000-0002-7505-9467](https://orcid.org/%200000-0002-7505-9467))</p>
+I am Professor of Ecology at the Autonomous University of Barcelona and researcher at CREAF, where I was director from 2005 to 2019. My research is based on the study of forest dynamics and the effect of disturbances, especially fire, on animal and plant communities and ecosystem services. I am currently the coordinator of the European LIFE MIDMACC project on the adaptation of Mediterranean mountains to climate change, and the national GREEN-RISK project on the limitations of integrated modelling at landscape and regional scales and the development of a procedure for future assessments of changes in biodiversity and ecosystem services.
+
 <br>
 <br>
+<br>
+
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Maurizio.jpg")
+```
+<p><b>Maurizio Mencuccini (MM)</b>, CREAF/ICREA, Spain/ University of Edinburgh, UK  ([0000-0003-0840-1477](https://orcid.org/0000-0003-0840-1477))</p>
+I work at the frontier between plant biology and environmental sciences, at the interface with global change. My major contributions to science are in the study of the carbon and water cycles of forests, across Boreal, temperate, tropical and Mediterranean biomes of Europe, the Americas, Australia and Africa. I have authored more than 200 peer-reviewed papers. I am very involved in debates concerning how more severe droughts, as a consequence of climate change, can accelerate tree mortality. One area of major contribution has been in identifying the processes by which plant physiological properties affect the likelihood of survival following extreme drought events. I am also very interested in how canopies of forest trees can act as filters of atmospheric nitrogen deposition via their leaf microbiome.
+
+<br>
+<br>
+<br>
+
 
 <h3>Organising committee:</h3>
 ```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
@@ -224,7 +253,7 @@ I studied Biology at the Complutense University of Madrid (UCM, 2013) and obtain
 <br>
 
 ```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
-knitr::include_graphics(dpi = 150, path = "images/albert.jpg")
+knitr::include_graphics(dpi = 150, path = "images/albert.png")
 ```
 <p><b>Albert Vilà (AV)</b>, CREAF/UAB, Spain ([0000-0001-7589-7797](https://orcid.org/ 0000-0001-7589-7797))</p>
 I am PhD in Terrestrial Ecology (UAB 2012). My research focuses on understanding the factors that regulate forest demographics, functional biogeography, diversity, and functioning to global environmental change, and the integration of this information for management and conservation purposes. I address key questions at the intersection between ecology and biogeography, including theoretical and empirical development. I have primary focused on drought-stressed forests, either by distributional constraints (rear edge populations, and Mediterranean-type vegetation) or climate change-type drought, by combining large-scale field experiments and analysis of large datasets.
