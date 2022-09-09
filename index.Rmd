@@ -165,11 +165,11 @@ As a mathematical biologist (Wageningen University), I am interested in contribu
 
 <br>
 
-<!-- ```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'} -->
-<!-- knitr::include_graphics(dpi = 150, path = "images/Tord.jpg") -->
-<!-- ``` -->
-<!-- <p><b>Tord Snäll (TS)</b>, Swedish University of Agricultural Sciences, Sweden ([0000-0001-5856-5539](https://orcid.org/0000-0001-5856-5539))</p> -->
-<!-- I have three main research interests. One of my main interests is to increase our understanding and ability to predict the distribution or dynamics of (meta)populations, species, communities and ecosystem services. In addition, I investigate how these biodiversity measures and services can respond to future land use or climate change scenarios. Finally, I investigate the usefulness of citizen science data to answer basic and applied questions. Most of my studies concern the use and conservation of forest resources. -->
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/Tord.jpg")
+```
+<p><b>Tord Snäll (TS)</b>, SLU Swedish Species Information Centre, Swedish University of Agricultural Sciences, Sweden ([0000-0001-5856-5539](https://orcid.org/0000-0001-5856-5539))</p>
+My group works on increasing the understanding of how environmental conditions affect levels and dynamics of ecosystem services on different spatial scales. We mostly answer these questions by statistical modelling of field data, typically large-scale monitoring data such as from the national forest inventory. Another main research interest is how these ecosystem services may be affected by scenarios of future forestry or climate change. This includes simulating scenarios (answering What if?) and optimization (answering How?). The main spatial scales studied are the landscape and national scales, but we also consider the EU and global scales. This work on the management of ecosystem services is based on a general interest in the ecology, use and conservation of forests and their biodiversity. I am a professor of ecology at the SLU Swedish Species Information Centre, Swedish University of Agricultural Sciences (SLU).
 
 <br>
 
