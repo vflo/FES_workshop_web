@@ -13,7 +13,7 @@
 
 <title>Readings</title>
 
-<script src="site_libs/header-attrs-2.14/header-attrs.js"></script>
+<script src="site_libs/header-attrs-2.16/header-attrs.js"></script>
 <script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1" />
 <link href="site_libs/bootstrap-3.3.5/css/yeti.min.css" rel="stylesheet" />
@@ -147,11 +147,15 @@ $(document).ready(function () {
     href = "index.html";
   var menuAnchor = $('a[href="' + href + '"]');
 
-  // mark it active
-  menuAnchor.tab('show');
-
-  // if it's got a parent navbar menu mark it active as well
-  menuAnchor.closest('li.dropdown').addClass('active');
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
 
   // Navbar adjustments
   var navHeight = $(".navbar").first().height() + 15;
@@ -421,36 +425,95 @@ text-align: left}
 <div id="a-community-sourced-list-of-publications-to-read"
 class="section level3">
 <h3>A community sourced list of publications to read</h3>
-<p><br> Papers are tagged depending on the specific workshop question(s)
-they address. If untagged, they provide useful context or tools that
-can’t be unequivocally assigned to any of the questions.</p>
-<p>Transversal topics (can be associated to any of the 5 questions)</p>
-<p>In brackets, tags linking to papers below:</p>
-<ul>
-<li>Main reasons for (or against) the comparisons on the delivery of ES
-<b>[WHY]</b></li>
-<li>Levels of geographical variation or spatial scales relevant for the
-comparison of ES <b>[WHERE]</b></li>
-<li>The role of the temporal component in ES comparative analyses
-<b>[WHEN]</b></li>
-<li>To identify a series of ES and a series of (their) indicators which
-may allow (or not) these comparisons <b>[WHAT]</b></li>
-<li>Potential methodologies to make ES comparable <b>[HOW]</b> <br>
-<br></li>
-</ul>
+<!-- <br> -->
+<!-- Papers are tagged depending on the specific workshop question(s) they address. If untagged, they provide useful context or tools that can’t be unequivocally assigned to any of the questions.  -->
+<!-- Transversal topics (can be associated to any of the 5 questions)  -->
+<!-- In brackets, tags linking to papers below: -->
+<!--   +   Main reasons for (or against) the comparisons on the delivery of ES <b>[WHY]</b> -->
+<!--   +   Levels of geographical variation or spatial scales relevant for the comparison of ES <b>[WHERE]</b> -->
+<!--   +   The role of the temporal component in ES comparative analyses <b>[WHEN]</b> -->
+<!--   +   To identify a series of ES and a series of (their) indicators which may allow (or not) these comparisons <b>[WHAT]</b> -->
+<!--   +   Potential methodologies to make ES comparable <b>[HOW]</b> -->
+<!-- <br> -->
+<!-- <br> -->
 <p><b>Andersson E., McPhearson T., Kremer P., Gomez-Baggethun E., Haase
 D., Tuvendal M., &amp; Wurster D. 2015.</b> Scale and context dependence
 of ecosystem service providing units. <em>Ecosystem Services</em>
 <b>12</b> 157-164. <a
 href="https://doi.org/10.1016/j.ecoser.2014.08.001"
-class="uri">https://doi.org/10.1016/j.ecoser.2014.08.001</a>
-<b>[WHERE]</b></p>
+class="uri">https://doi.org/10.1016/j.ecoser.2014.08.001</a></p>
 <p><b>Aziz T., &amp; Van Cappellen P. 2019.</b> Comparative valuation of
 potential and realized ecosystem services in Southern Ontario, Canada.
 <em>Environmental Science &amp; Policy</em> <b>100</b> 105-112. <a
 href="https://doi.org/10.1016/j.envsci.2019.06.014"
 class="uri">https://doi.org/10.1016/j.envsci.2019.06.014</a></p>
-<p>To be completed… <br> <br> <br></p>
+<p><b>Balvanera, P., Brauman, K. A., Cord, A. F., Drakou, E. G.,
+Geijzendorffer, I. R., Karp, D. S., … &amp; Schröter, M. 2022 </b>
+Essential ecosystem service variables for monitoring progress towards
+sustainability. <em>Current Opinion in Environmental Sustainability</em>
+<b>54</b> 101152 <a href="https://doi.org/10.1016/j.cosust.2022.101152"
+class="uri">https://doi.org/10.1016/j.cosust.2022.101152</a>.</p>
+<p><b>Chan, K. M., Balvanera, P., Benessaiah, K., Chapman, M., Díaz, S.,
+Gómez-Baggethun, E., … &amp; Turner, N. 2016</b> Opinion: Why protect
+nature? Rethinking values and the environment. <em>Proceedings of the
+national academy of sciences</em> <b>113(6)</b> 1462-1465 <a
+href="https://doi.org/10.1073/pnas.1525002113"
+class="uri">https://doi.org/10.1073/pnas.1525002113</a></p>
+<p><b>Maes, J., Liquete, C., Teller, A., Erhard, M., Paracchini, M. L.,
+Barredo, J. I., … &amp; Lavalle, C. 2016</b> An indicator framework for
+assessing ecosystem services in support of the EU Biodiversity Strategy
+to 2020. <em>Ecosystem services</em> <b>17</b> 14-23 <a
+href="https://doi.org/10.1016/j.ecoser.2015.10.023"
+class="uri">https://doi.org/10.1016/j.ecoser.2015.10.023</a></p>
+<p><b>Manning, P., Van Der Plas, F., Soliveres, S., Allan, E., Maestre,
+F. T., Mace, G., … &amp; Fischer, M. 2018</b>. Redefining ecosystem
+multifunctionality. <em>Nature ecology &amp; evolution</em> <b>2(3)</b>
+427-436. <a href="https://doi.org/10.1038/s41559-017-0461-7"
+class="uri">https://doi.org/10.1038/s41559-017-0461-7</a></p>
+<p><b>Meacham, M., Norström, A.V., Peterson, G. D., Andersson, E.,
+Bennett, E. M., Biggs, R., Crouzat, E., Cord, A.F., Enfors, E.,
+Felipe-Lucia, M. R., Fischer, J., Hamann, M., Hanspach, J., Hicks, C.,
+Jacobs, S., Lavorel, S., Locatelli B., Martín-López, B., Plieninger, T.
+&amp; Queiroz, C. 2022</b> Advancing research on ecosystem service
+bundles for comparative assessments and synthesis, <em>Ecosystems and
+People</em> <b>18:1</b> 99-111 <a
+href="https://doi.org/10.1080/26395916.2022.2032356"
+class="uri">https://doi.org/10.1080/26395916.2022.2032356</a></p>
+<p><b>Quintas-Soriano, C., Brandt, J. S., Running, K., Baxter, C. V.,
+Gibson, D. M., Narducci, J., &amp; Castro, A. J. 2018</b>
+Social-ecological systems influence ecosystem service perception.
+<em>Ecology and Society</em> <b>23(3):3</b> <a
+href="https://doi.org/10.5751/ES-10226-230303"
+class="uri">https://doi.org/10.5751/ES-10226-230303</a></p>
+<p><b>Rau, A. L., Burkhardt, V., Dorninger, C., Hjort, C., Ibe, K.,
+Keßler, L., … &amp; Ekroos, J. 2020</b> Temporal patterns in ecosystem
+services research: A review and three recommendations. <em>Ambio
+<b>49(8)</b> 1377-1393 <a
+href="https://doi.org/10.1007/s13280-019-01292-w"
+class="uri">https://doi.org/10.1007/s13280-019-01292-w</a></p>
+<p><b>Raudsepp-Hearne, C., &amp; Peterson, G. D. 2016</b> Scale and
+ecosystem services: how do observation, management, and analysis shift
+with scale—lessons from Québec. <em>Ecology and Society</em>
+<b>21(3)</b> <a href="http://dx.doi.org/10.5751/ES-08605-210316"
+class="uri">http://dx.doi.org/10.5751/ES-08605-210316</a></p>
+<p><b>Rieb, J. T., Chaplin-Kramer, R., Daily, G. C., Armsworth, P. R.,
+Böhning-Gaese, K., Bonn, A., … &amp; Bennett, E. M. 2017</b> When,
+where, and how nature matters for ecosystem services: challenges for the
+next generation of ecosystem service models. <em>BioScience</em>
+<b>67(9)</b> 820-833 <a href="https://doi.org/10.1093/biosci/bix075"
+class="uri">https://doi.org/10.1093/biosci/bix075</a></p>
+<p><b>Snäll, T., Triviño, M., Mair, L., Bengtsson, J., &amp; Moen, J.
+2021</b> High rates of short-term dynamics of forest ecosystem services.
+<em>Nature Sustainability</em> <b>4(11)</b> 951-957. <a
+href="https://doi.org/10.1038/s41893-021-00764-w"
+class="uri">https://doi.org/10.1038/s41893-021-00764-w</a></p>
+<p><b>Spake, R., Bellamy, C., Graham, L. J., Watts, K., Wilson, T.,
+Norton, L. R., … &amp; Eigenbrod, F. 2019</b> An analytical framework
+for spatially targeted management of natural capital. <em>Nature
+Sustainability</em> <b>2(2)</b> 90-97 <a
+href="https://doi.org/10.1038/s41893-019-0223-4"
+class="uri">https://doi.org/10.1038/s41893-019-0223-4</a></p>
+<p><br> <br> <br></p>
 <div class="footer text-muted bg-info">
 <p>
 FES workshop organising committee<br>
