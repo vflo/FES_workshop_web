@@ -205,6 +205,15 @@ I am Professor of Ecology at the Autonomous University of Barcelona and research
 
 <br>
 <br>
+
+```{r , echo=FALSE,  out.width = '25%',fig.pos="hbt!", fig.align="center",out.extra='style="float:left; padding:10px"'}
+knitr::include_graphics(dpi = 150, path = "images/francesco.jpg")
+```
+<p><b>Francesco D'Adamo (FDA)</b>, CREAF/UAB, Spain ([0000-0003-4428-0713](https://orcid.org/0000-0003-4428-0713))</p>
+I am a physical geographer (UCL, 2015) and PhD in remote sensing (University of Southampton, 2020). After a postdoc at the University of Southampton, I am now working as a postdoc at CREAF. Here, I joined a European project (RESONATE) aimed at assessing/modelling forest ecosystem services resilience across different forested regions in Europe. Overall, I am interested in process-based modelling, forest ecology, remote sensing applications for vegetation monitoring, and spatial ecology.
+
+<br>
+<br>
 <br>
 
 
