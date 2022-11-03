@@ -57,7 +57,7 @@ $(function() {
 
 <center>
 <h2>**FES WORKSHOP**</h2>
-<h3>16th - 18th November 2022</h3>
+<h3>14th - 18th November 2022</h3>
 <h3>CAN BALASC - BARCELONA</h3>
 <br>
 <br>
@@ -274,6 +274,22 @@ knitr::include_graphics(dpi = 150, path = "images/victor.jpg")
 ```
 <p><b>Victor Flo (VF)</b>, Imperial College of London, UK  ([0000-0003-1908-4577](https://orcid.org/ 0000-0003-1908-4577))</p>
 I am a Biosystems Engineer (Polytechnic University of Catalonia,  2013) and PhD in ecology  from the Autonomous University of Barcelona (UAB, 2021). My research focuses on Land-Surface modelling, particularly on vegetation processes. I am interested in plant water and carbon economy and how it influences forest functioning, land-atmosphere interactions and the provision of ecosystem services in a context of global change.
+
+<br>
+<br>
+
+<h3>Support volunteers:</h3>
+
+
+<p><b>Brenda Verónica Fatecha</b>, ([0000-0001-9142-9854](https://orcid.org/0000-0001-9142-9854))</p>
+
+
+<p><b>Pablo Sánchez Martínez</b>,   ([0000-0002-0157-7800](https://orcid.org/0000-0002-0157-7800))</p>
+
+
+<p><b>Susana Silvestre Carbonell</b>, ([0000-0002-0061-8113](https://orcid.org/0000-0002-0061-8113))</p>
+
+<p><b>Luca da Sois</b>, ([0000-0002-1170-7410](https://orcid.org/0000-0002-1170-7410))</p>
 
 <br>
 <br>
