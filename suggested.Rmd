@@ -76,31 +76,80 @@ text-align: left}
 <!-- <br> -->
 <!-- <br> -->
 
+<b>Albrich, K., <em>et al.</em> 2020</b> Simulating forest resilience: A review. <em>Global Ecology and Biogeography</em> <b>29(12)</b> 2082-2096 https://doi.org/10.1111/geb.13197
+
 <b>Andersson E., McPhearson T., Kremer P., Gomez-Baggethun E., Haase D., Tuvendal M., & Wurster D. 2015.</b> Scale and context dependence of ecosystem service providing units. <em>Ecosystem Services</em> <b>12</b> 157-164. https://doi.org/10.1016/j.ecoser.2014.08.001
 
 <b>Aziz T., & Van Cappellen P. 2019.</b> Comparative valuation of potential and realized ecosystem services in Southern Ontario, Canada. <em>Environmental Science & Policy</em> <b>100</b> 105-112. https://doi.org/10.1016/j.envsci.2019.06.014 
 
-<b>Balvanera, P., Brauman, K. A., Cord, A. F., Drakou, E. G., Geijzendorffer, I. R., Karp, D. S., ... & Schröter, M. 2022 </b> Essential ecosystem service variables for monitoring progress towards sustainability. <em>Current Opinion in Environmental Sustainability</em> <b>54</b> 101152 https://doi.org/10.1016/j.cosust.2022.101152.
+<b>Balvanera, P., <em>et al.</em> 2022 </b> Essential ecosystem service variables for monitoring progress towards sustainability. <em>Current Opinion in Environmental Sustainability</em> <b>54</b> 101152 https://doi.org/10.1016/j.cosust.2022.101152.
+
+<b>Bugmann, H., Seidl, R., 2022</b> The evolution, complexity and diversity of models of long‐term forest dynamics. <em>Journal of Ecology</em> <b>110(10)</b> 2288-2307 https://doi.org/10.1111/1365-2745.13989
 
 <b>Chan, K. M., Balvanera, P., Benessaiah, K., Chapman, M., Díaz, S., Gómez-Baggethun, E., ... & Turner, N. 2016</b> Opinion: Why protect nature? Rethinking values and the environment. <em>Proceedings of the national academy of sciences</em> <b>113(6)</b> 1462-1465 https://doi.org/10.1073/pnas.1525002113
+
+<b>Costanza, R. 2020</b> Valuing natural capital and ecosystem services toward the goals of efficiency, fairness, and sustainability. <em>Ecosystem Services</em> <b>43</b> 101096 https://doi.org/10.1016/j.ecoser.2020.101096
+
+<b>Daily, G. C., <em>et al.</em> 2009</b> Ecosystem services in decision making: time to deliver. <em>Frontiers in Ecology and the Environment</em> <b>7(1)</b> 21-28 https://doi.org/10.1890/080025
+
+<b>Eigenbrod, F. 2016</b> Redefining Landscape Structure for Ecosystem Services. <em>Curr Landscape Ecol Rep</em> <b>1</b> 80–86 https://doi.org/10.1007/s40823-016-0010-0
+
+<b>Felipe-Lucia, M.R., <em>et al.</em> 2018</b> Multiple forest attributes underpin the supply of multiple ecosystem services. <em>Nature communications</em> <b>9:4839</b> https://doi.org/10.1038/s41467-018-07082-4
+
+<b>Fisher, B., <em>et al.</em> 2009</b> Defining and classifying ecosystem services for decision making. <em>Ecological economics</em> <b>68(3)</b> 643-653 https://doi.org/10.1016/j.ecolecon.2008.09.014
+
+<b>Fischer A.P. 2018</b> Forest landscapes as social-ecological systems and implications for management, <em>Landscape and Urban Planning</em> https://doi.org/10.1016/j.landurbplan.2018.05.001
+
+<b>Forzieri, G., <em>et al.</em> 2022</b> Emerging signals of declining forest resilience under climate change. <em>Nature</em> <b>608(7923)</b> 534-539 https://doi.org/10.1038/s41586-022-04959-9
+
+<b>Geijzendorffer, I. R., <em>et al.</em> 2015</b> Improving the identification of mismatches in ecosystem services assessments. <em>Ecological Indicators</em> <b>52>/b> 320-331 https://doi.org/10.1016/j.ecolind.2014.12.016
+
+<b>Hölting, L., <em>et al.</em> 2019</b> Measuring ecosystem multifunctionality across scales. <em>Environmental Research Letters</em> <b>14</b> 12 https://doi.org/10.1088/1748-9326/ab5ccb
+
+<b>Jonsson, M., <em>et al.</em> 2020</b> Stand age and climate influence forest ecosystem service delivery and multifunctionality. <em>Environmental Research Letters</em> <b>15</b> 0940a8 https://doi.org/10.1088/1748-9326/abaf1c
+
+<b>La Notte, A., <em>et al.</em> 2022</b> Linking accounts for ecosystem Services and Benefits to the Economy Through bridging (LISBETH) Part II, EUR 31185 EN, <em>Publications Office of the European Union, Luxembourg</em> (with a special
+reference to chapter 4)
 
 <b>Maes, J., Liquete, C., Teller, A., Erhard, M., Paracchini, M. L., Barredo, J. I., ... & Lavalle, C. 2016</b> An indicator framework for assessing ecosystem services in support of the EU Biodiversity Strategy to 2020. <em>Ecosystem services</em> <b>17</b> 14-23 https://doi.org/10.1016/j.ecoser.2015.10.023
 
 <b>Manning, P., Van Der Plas, F., Soliveres, S., Allan, E., Maestre, F. T., Mace, G., ... & Fischer, M. 2018</b>. Redefining ecosystem multifunctionality. <em>Nature ecology & evolution</em> <b>2(3)</b> 427-436. https://doi.org/10.1038/s41559-017-0461-7
 
-<b>Meacham, M., Norström, A.V., Peterson, G. D., Andersson, E., Bennett, E. M., Biggs, R., Crouzat, E., Cord, A.F., Enfors, E., Felipe-Lucia, M. R.,  Fischer, J., Hamann, M., Hanspach, J., Hicks, C., Jacobs, S., Lavorel, S., Locatelli B.,  Martín-López, B., Plieninger, T. & Queiroz, C. 2022</b> Advancing research on ecosystem service bundles for comparative assessments and synthesis, <em>Ecosystems and People</em> <b>18:1</b> 99-111 https://doi.org/10.1080/26395916.2022.2032356
+<b>Mazziotta, A., <em>et al.</em> 2022</b> More future synergies and less trade-offs between forest ecosystem services with natural climate solutions instead of bioeconomy solutions. <em>Global Change Biology</em>  https://doi.org/10.1111/gcb.16364
+
+<b>Meacham, M., <em>et al.</em> 2022</b> Advancing research on ecosystem service bundles for comparative assessments and synthesis, <em>Ecosystems and People</em> <b>18:1</b> 99-111 https://doi.org/10.1080/26395916.2022.2032356
+
+<b>Metzger, J.P., <em>et al.</em> 2021</b> Considering landscape-level processes in ecosystem service assessments, <em>Science of The Total Environment</em> https://doi.org/10.1016/j.scitotenv.2021.149028
 
 <b>Quintas-Soriano, C., Brandt, J. S., Running, K., Baxter, C. V., Gibson, D. M., Narducci, J., & Castro, A. J. 2018</b> Social-ecological systems influence ecosystem service perception. <em>Ecology and Society</em> <b>23(3):3</b> https://doi.org/10.5751/ES-10226-230303
 
-<b>Rau, A. L., Burkhardt, V., Dorninger, C., Hjort, C., Ibe, K., Keßler, L., ... & Ekroos, J. 2020</b> Temporal patterns in ecosystem services research: A review and three recommendations. <em>Ambio <b>49(8)</b> 1377-1393 https://doi.org/10.1007/s13280-019-01292-w
+<b>Rau, A. L., <em>et al.</em> 2020</b> Temporal patterns in ecosystem services research: A review and three recommendations. <em>Ambio</em> <b>49(8)</b> 1377-1393 https://doi.org/10.1007/s13280-019-01292-w
 
 <b>Raudsepp-Hearne, C., & Peterson, G. D. 2016</b> Scale and ecosystem services: how do observation, management, and analysis shift with scale—lessons from Québec. <em>Ecology and Society</em> <b>21(3)</b> http://dx.doi.org/10.5751/ES-08605-210316
 
-<b>Rieb, J. T., Chaplin-Kramer, R., Daily, G. C., Armsworth, P. R., Böhning-Gaese, K., Bonn, A., ... & Bennett, E. M. 2017</b> When, where, and how nature matters for ecosystem services: challenges for the next generation of ecosystem service models. <em>BioScience</em> <b>67(9)</b> 820-833 https://doi.org/10.1093/biosci/bix075
+<b>Rieb, J. T., <em>et al.</em> 2017</b> When, where, and how nature matters for ecosystem services: challenges for the next generation of ecosystem service models. <em>BioScience</em> <b>67(9)</b> 820-833 https://doi.org/10.1093/biosci/bix075
+
+<b>Rodríguez-Morales, B., <em>et al.</em> 2020</b> Perceptions of ecosystem services and disservices on a peri-urban communal forest: Are landowners’ and visitors’ perspectives dissimilar? <em>Ecosystem Services</em> https://doi.org/10.1016/j.ecoser.2020.101089
+
+<b>Simons, N.K., <em>et al.</em> 2021</b> National Forest Inventories capture the multifunctionality of managed forests in Germany. <em>Forest Ecosystems</em> <b>8:5</b> https://doi.org/10.1186/s40663-021-00280-5
 
 <b>Snäll, T., Triviño, M., Mair, L., Bengtsson, J., & Moen, J. 2021</b> High rates of short-term dynamics of forest ecosystem services. <em>Nature Sustainability</em> <b>4(11)</b> 951-957. https://doi.org/10.1038/s41893-021-00764-w
 
+<b>Soliveres, S., <em>et al.</em> 2016</b> Biodiversity at multiple trophic levels is needed for ecosystem multifunctionality. <em>Nature</em> <b>536</b> 456–459 https://doi.org/10.1038/nature19092
+
+<b>Spake, R., <em>et al.</em> 2017</b> Unpacking ecosystem service bundles: Towards predictive mapping of synergies and trade-offs between ecosystem services. <em>Global Environmental Change</em> <b>47</b> 37-50 https://doi.org/10.1016/j.gloenvcha.2017.08.004
+
 <b>Spake, R., Bellamy, C., Graham, L. J., Watts, K., Wilson, T., Norton, L. R., ... & Eigenbrod, F. 2019</b> An analytical framework for spatially targeted management of natural capital. <em>Nature Sustainability</em> <b>2(2)</b> 90-97 https://doi.org/10.1038/s41893-019-0223-4
+
+<b>Spake, R., <em>et al.</em> 2021</b> Applying the stress gradient hypothesis to curb the spread of invasive bamboo. <em>Journal of Applied Ecology</em>  https://doi.org/10.1111/1365-2664.13945
+
+<b>Spake, R., <em>et al.</em> 2022</b> Detecting Thresholds of Ecological Change in the Anthropocene. <em>Annual Review of Environment and Resources.</em> <b>47(1)</b> 797-821 https://doi.org/10.1146/annurev-environ-112420-015910
+
+<b>United Nations <em>et al.</em> 2021</b> System of Environmental-Economic Accounting–Ecosystem Accounting. <em>White cover</em> (pre-edited) version (with a special reference to Chapters 6 and 7)
+
+<b>Villarreal-Rosas, J., <em>et al.</em> 2020</b> Advancing systematic conservation planning for ecosystem services. <em>Trends in Ecology & Evolution</em> <b>35(12)</b> https://doi.org/10.1016/j.tree.2020.08.016 1129-1139
+
+<b>Vysna, V., <em>et al.</em> 2021</b> Accounting for ecosystems and their services in the European Union (INCA). Final report from phase II of the INCA project aiming to develop a pilot for an integrated system of ecosystem accounts for the EU. Statistical report. <em>Publications office of the European Union, Luxembourg</em> (with a special reference to chapter 4).
 
 
 <br>

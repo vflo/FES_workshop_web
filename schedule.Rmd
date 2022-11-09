@@ -64,20 +64,21 @@ $(function() {
 ```
 
 ## SCHEDULE
-<a href="./schedule/index.html" target="_blank">FES WORKSHOP SCHEDULE</a>
-
-Talks should be about 10-15 minutes long, after which will be time for discussion.
+<a href="./schedule/index.html" target="_blank">WORKSHOP SCHEDULE</a>
 
 <br>
 <br>
-<br>
 
-## TALKS
-
-To be completed ...
-<br>
-<br>
-<br>
+## PROGRAM
+```{r , echo=FALSE}
+downloadthis::download_file(
+  path = "images/final_program_WS_FES.pdf",
+    button_label = "DOWNLOAD WORKSHOP PROGRAM",
+    button_type = "info",
+    has_icon = FALSE,
+    icon = NULL
+  )
+```
 
 
 ::: {.footer .text-muted .bg-info}
