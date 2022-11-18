@@ -294,6 +294,15 @@ I am a Biosystems Engineer (Polytechnic University of Catalonia,  2013) and PhD 
 <br>
 <br>
 
+
+<br>
+```{r group, echo=FALSE,  out.width = '80%',fig.pos="hbt!", fig.align="center"}
+knitr::include_graphics(dpi = 150, path = "images/group.jpg")
+```
+
+<br>
+<br>
+
 <h2>FACILITIES</h2>
 <h3>Can Balasc Biological Station</h3>
 <br>
